@@ -1,0 +1,2172 @@
+{
+    "original": "Seize the opportunity.",
+    "annotation": "CONTACT, OBJECT, FORCE",
+    "literal": "Grab the ball."
+}
+
+{
+  "original": "Don't lose this opportunity.",
+  "annotation": "OBJECT, CONTAINMENT, FORCE",
+  "literal": "Don't drop this ball."
+}
+
+{
+    "original": "Don't let the opportunity pass you by.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, FORCE",
+    "literal": "Don't let the car pass you by on the road."
+}
+
+{
+    "original": "You have to make your own opportunities.",
+    "annotation": "OBJECT, FORCE, SOURCE_PATH_GOAL",
+    "literal": "You have to build your own furniture."
+}
+
+{
+    "original": "I've had 3 opportunities to meet him.",
+    "annotation": "CONTAINMENT, OBJECT, SCALE",
+    "literal": "I've had 3 apples in my basket."
+}
+
+{
+    "original": "You rarely find that kind of opportunity.",
+    "annotation": "OBJECT, SOURCE_PATH_GOAL, CONTAINMENT",
+    "literal": "You rarely find that kind of coin on the ground."
+}
+
+{
+    "original": "We've got plenty of chances left.",
+    "annotation": "CONTAINMENT, SUBSTANCE, SCALE",
+    "literal": "We've got plenty of apples left in the basket."
+}
+
+{
+  "original": "I've squandered every opportunity to advance my career.",
+  "annotation": "SOURCE_PATH_GOAL, SUBSTANCE, OBJECT",
+  "literal": "I've wasted all the money in my wallet."
+}
+
+{
+    "original": "I want control over my own existence.",
+    "annotation": "CONTAINMENT, FORCE, OBJECT",
+    "literal": "I want to hold the steering wheel of my car."
+}
+
+{
+    "original": "The dodo disappeared in the 1600s.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL",
+    "literal": "The ship disappeared behind the horizon."
+}
+
+{
+  "original": "Sally gave the idea to Sam.",
+  "annotation": "SOURCE_PATH_GOAL, OBJECT, FORCE, LINK",
+  "literal": "Sally handed the book to Sam."
+}
+
+{
+    "original": "Sally took the idea from Sam.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, FORCE",
+    "literal": "Sally took the book from Sam."
+}
+
+{
+    "original": "Sally traded ideas with Sam.",
+    "annotation": "LINK, OBJECT, SOURCE_PATH_GOAL, FORCE",
+    "literal": "Sally exchanged books with Sam."
+}
+
+{
+  "original": "Sally sold the idea to the highest bidder.",
+  "annotation": "OBJECT, SOURCE_PATH_GOAL, SCALE",
+  "literal": "Sally sold the car to the person who offered the most money."
+}
+
+{
+    "original": "IBM bought the idea from him.",
+    "annotation": "OBJECT, SOURCE_PATH_GOAL, CONTAINMENT",
+    "literal": "IBM bought the computer from him."
+}
+
+{
+  "original": "Sally has an idea.",
+  "annotation": "CONTAINMENT, OBJECT",
+  "literal": "Sally holds a book."
+}
+
+{
+  "original": "Sally put the idea aside.",
+  "annotation": "OBJECT, SOURCE_PATH_GOAL, CONTAINMENT",
+  "literal": "Sally put the book aside."
+}
+
+{
+  "original": "Sally threw the idea at Sam.",
+  "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+  "literal": "Sally threw the ball at Sam."
+}
+
+{
+  "original": "Sally lost her idea.",
+  "annotation": "OBJECT, CONTAINMENT, SOURCE_PATH_GOAL",
+  "literal": "Sally lost her keys."
+}
+
+{
+    "original": "Sally found an idea in the book.",
+    "annotation": "CONTAINMENT, OBJECT, SOURCE_PATH_GOAL",
+    "literal": "Sally found a coin in the box."
+}
+
+{
+    "original": "Sally carries that idea around with her all the time.",
+    "annotation": "CONTAINMENT, OBJECT, SOURCE_PATH_GOAL, SUPPORT",
+    "literal": "Sally carries that bag around with her all the time."
+}
+
+{
+    "original": "Sally searched for an idea all day.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, CONTAINMENT",
+    "literal": "Sally searched for her keys all day."
+}
+
+{
+    "original": "It's difficult to put my ideas into words.",
+    "annotation": "CONTAINMENT, OBJECT, SUBSTANCE",
+    "literal": "It's difficult to put water into a bottle."
+}
+
+{
+  "original": "What's the matter?",
+  "annotation": "SUBSTANCE, CONTAINMENT, OBJECT",
+  "literal": "What's inside this container?"
+}
+
+{
+    "original": "The distribution of sex cells, however, was a different matter.",
+    "annotation": "SUBSTANCE, SPLITTING, CONTAINMENT, OBJECT",
+    "literal": "The distribution of marbles in the jar was a different arrangement."
+}
+
+{
+    "original": "It is difficult for unilateralists to admit there is another side to the missile question.",
+    "annotation": "CONTAINMENT, OBJECT, PART-WHOLE, SPLITTING",
+    "literal": "It is difficult to see the back side of a physical object."
+}
+
+{
+    "original": "That is a very hard question to answer.",
+    "annotation": "SUBSTANCE, FORCE, OBJECT",
+    "literal": "That is a very solid rock to break."
+}
+
+{
+    "original": "It's a tough problem.",
+    "annotation": "SUBSTANCE, FORCE, OBJECT",
+    "literal": "It's a hard rock."
+}
+
+{
+    "original": "Let us turn to less weighty matters.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, SUBSTANCE, FORCE",
+    "literal": "Let us rotate towards lighter objects."
+}
+
+{
+  "original": "You'd need an electron microscope to find the point of this essay.",
+  "annotation": "SCALE, OBJECT, SOURCE_PATH_GOAL",
+  "literal": "You'd need a magnifying glass to find the small object on the table."
+}
+
+{
+    "original": "The meaning is right there in the words.",
+    "annotation": "CONTAINMENT, OBJECT, CENTER-PERIPHERY",
+    "literal": "The book is right there on the shelf."
+}
+
+{
+  "original": "His words carry little meaning.",
+  "annotation": "SUBSTANCE, FORCE, CONTAINMENT, SCALE",
+  "literal": "The truck carries a small load."
+}
+
+{
+    "original": "Don't force your meaning into the wrong words.",
+    "annotation": "FORCE, CONTAINMENT, OBJECT, SOURCE_PATH_GOAL",
+    "literal": "Don't push the large box into the small container."
+}
+
+{
+    "original": "The sentence is without meaning.",
+    "annotation": "CONTAINMENT, SUBSTANCE",
+    "literal": "The bottle is without water."
+}
+
+{
+  "original": "Hast du etwas Zeit für mich?",
+  "annotation": "SUBSTANCE, CONTAINMENT, OBJECT",
+  "literal": "Hast du etwas Wasser für mich?"
+}
+
+{
+  "original": "Wir haben noch viel/jede Menge/reichlich Zeit.",
+  "annotation": "SUBSTANCE, CONTAINMENT, SCALE",
+  "literal": "Wir haben noch viele Äpfel in der Schüssel."
+}
+
+{
+  "original": "Dafür musst du etwas Zeit mitbringen.",
+  "annotation": "SUBSTANCE, CONTAINMENT, SOURCE_PATH_GOAL",
+  "literal": "Dafür musst du einen Gegenstand mitnehmen."
+}
+
+{
+  "original": "Don't waste your time.",
+  "annotation": "SUBSTANCE, CONTAINMENT, SCALE",
+  "literal": "Don't spill your water."
+}
+
+{
+  "original": "Our time is valuable.",
+  "annotation": "SUBSTANCE, OBJECT, SCALE",
+  "literal": "Our gold is valuable."
+}
+
+{
+    "original": "We don't have much time.",
+    "annotation": "CONTAINMENT, SUBSTANCE, SCALE",
+    "literal": "The jar doesn't contain much water."
+}
+
+{
+  "original": "Stars whose careers collapsed in a relatively short amount of time",
+  "annotation": "VERTICALITY, SOURCE_PATH_GOAL, SCALE, FORCE",
+  "literal": "Buildings whose structures collapsed in a relatively short amount of time"
+}
+
+{
+  "original": "How to make a career out of things you would do even for free.",
+  "annotation": "CONTAINMENT, SUBSTANCE, SOURCE_PATH_GOAL, OBJECT",
+  "literal": "How to build a structure using materials you already have."
+}
+
+{
+    "original": "The noise is giving me a headache.",
+    "annotation": "FORCE, SOURCE_PATH_GOAL, OBJECT",
+    "literal": "The hammer is hitting my head."
+}
+
+{
+  "original": "Again, if by any chance, we should ultimately win out in such a war, what would it cost us in treasure and in blood?",
+  "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, SUBSTANCE, SCALE",
+  "literal": "If we reach the end of a difficult journey, how much money and physical resources would we have to spend?"
+}
+
+{
+  "original": "Let's toss some ideas around.",
+  "annotation": "SOURCE_PATH_GOAL, OBJECT, FORCE",
+  "literal": "Let's toss some balls around the room."
+}
+
+{
+    "original": "He just can't seem to grasp the concept.",
+    "annotation": "CONTACT, OBJECT, FORCE",
+    "literal": "He just can't seem to hold the ball."
+}
+
+{
+    "original": "He got a good handle on the subject matter.",
+    "annotation": "CONTACT, CONTAINMENT, OBJECT, FORCE",
+    "literal": "He firmly grasped the tool's handle."
+}
+
+{
+    "original": "The oil spill has caused a shock to the environment.",
+    "annotation": "FORCE, SUBSTANCE, CONTACT, CONTAINMENT",
+    "literal": "The hammer strike has caused a vibration in the metal."
+}
+
+{
+    "original": "Smog pollution is an environmental malaise.",
+    "annotation": "SUBSTANCE, CONTAINMENT, COVERING",
+    "literal": "Smog pollution is a visible layer of air contamination."
+}
+
+{
+  "original": "Ecologists are nursing the Bay back to health.",
+  "annotation": "SOURCE_PATH_GOAL, FORCE, CONTAINMENT, SUBSTANCE",
+  "literal": "Doctors are treating the patient back to health."
+}
+
+{
+    "original": "The time will come when…",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, FORCE",
+    "literal": "The train will arrive at the station when…"
+}
+
+{
+    "original": "The time has long since gone when…",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, SCALE",
+    "literal": "The train has long since departed from the station."
+}
+
+{
+    "original": "The time for action has arrived.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT",
+    "literal": "The train has arrived at the station."
+}
+
+{
+  "original": "Coming up in the weeks ahead …",
+  "annotation": "SOURCE_PATH_GOAL, VERTICALITY, SCALE",
+  "literal": "Moving forward on the calendar in the upcoming weeks …"
+}
+
+{
+    "original": "I look forward to the arrival of Christmas.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT",
+    "literal": "I look ahead to the train arriving at the station."
+}
+
+{
+  "original": "I'm looking ahead to Christmas.",
+  "annotation": "SOURCE_PATH_GOAL, VERTICALITY",
+  "literal": "I'm looking forward on the road."
+}
+
+{
+  "original": "Before us is a great opportunity, and we don't want it to pass us by.",
+  "annotation": "SOURCE_PATH_GOAL, OBJECT, FORCE",
+  "literal": "Before us is a large vehicle, and we don't want it to drive past us."
+}
+
+{
+  "original": "I can't face the future.",
+  "annotation": "CONTACT, SOURCE_PATH_GOAL, OBJECT",
+  "literal": "I can't look at the person in front of me."
+}
+
+{
+  "original": "The face of things to come …",
+  "annotation": "PART-WHOLE, OBJECT, SOURCE_PATH_GOAL",
+  "literal": "The front side of approaching objects …"
+}
+
+{
+  "original": "Let's meet the future head-on.",
+  "annotation": "CONTACT, SOURCE_PATH_GOAL, FORCE, OBJECT",
+  "literal": "Let's collide with the approaching car head-on."
+}
+
+{
+    "original": "The time will come when there are no more typewriters.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, OBJECT",
+    "literal": "The train will arrive when there are no more passengers on the platform."
+}
+
+{
+  "original": "The time has long since gone when you could mail a letter for three cents.",
+  "annotation": "SOURCE_PATH_GOAL, SCALE, OBJECT",
+  "literal": "The train has long since departed from the station."
+}
+
+{
+    "original": "The time for action has arrived.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT",
+    "literal": "The train has arrived at the station."
+}
+
+{
+    "original": "The deadline is approaching.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, FORCE",
+    "literal": "The train is approaching the station."
+}
+
+{
+  "original": "The time to start thinking about irreversible environmental decay is here.",
+  "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, OBJECT",
+  "literal": "The train has arrived at the station."
+}
+
+{
+  "original": "Thanksgiving is coming up on us.",
+  "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+  "literal": "The train is coming up on the station."
+}
+
+{
+  "original": "The summer just zoomed by.",
+  "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+  "literal": "The car zoomed by on the highway."
+}
+
+{
+    "original": "Time is flying by.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, FORCE",
+    "literal": "The bird is flying by."
+}
+
+{
+    "original": "The time for end-of-summer sales has passed.",
+    "annotation": "SOURCE_PATH_GOAL, SUBSTANCE, CONTAINMENT",
+    "literal": "The train has passed the station."
+}
+
+{
+    "original": "I can see the face of things to come.",
+    "annotation": "OBJECT, COVERING, SOURCE_PATH_GOAL, PART-WHOLE",
+    "literal": "I can see the front side of approaching objects."
+}
+
+{
+  "original": "I can't face the future.",
+  "annotation": "CONTACT, SOURCE_PATH_GOAL, OBJECT",
+  "literal": "I can't look at the person in front of me."
+}
+
+{
+  "original": "Let's meet the future head-on.",
+  "annotation": "CONTACT, SOURCE_PATH_GOAL, FORCE, OBJECT",
+  "literal": "Let's collide with the approaching car head-on."
+}
+
+{
+  "original": "In the weeks following next Tuesday, there will be very little to do.",
+  "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, SCALE",
+  "literal": "In the rooms following the entrance hall, there are very few pieces of furniture."
+}
+
+{
+  "original": "During the week preceding last Tuesday, things were impossibly hectic around here.",
+  "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, SCALE",
+  "literal": "During the seven days before Tuesday, activities were extremely busy in this location."
+}
+
+{
+    "original": "On the preceding day, I took a long walk.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE",
+    "literal": "Yesterday, I walked for several kilometers."
+}
+
+{
+    "original": "In the following weeks, there will be no vacations.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, SUBSTANCE",
+    "literal": "In the following rooms, there will be no furniture."
+}
+
+{
+    "original": "Come what come may. Time and the hour runs through the roughest day.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, SUBSTANCE, CONTAINMENT",
+    "literal": "Water flows through a rocky stream throughout the day."
+}
+
+{
+    "original": "Time flies.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT",
+    "literal": "The bird flies across the sky."
+}
+
+{
+    "original": "On the preceding day . . .",
+    "annotation": "SOURCE_PATH_GOAL, SCALE",
+    "literal": "On the previous page of the book . . ."
+}
+
+{
+    "original": "There's going to be trouble along the road.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT",
+    "literal": "There are obstacles along the highway."
+}
+
+{
+  "original": "His stay in Russia extended over many years.",
+  "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, SCALE",
+  "literal": "The bridge extended over the wide river."
+}
+
+{
+    "original": "He passed the time happily.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, SUBSTANCE",
+    "literal": "He walked past the building quickly."
+}
+
+{
+  "original": "We're coming up on Christmas.",
+  "annotation": "SOURCE_PATH_GOAL, VERTICALITY, OBJECT",
+  "literal": "We're approaching the Christmas tree."
+}
+
+{
+  "original": "We're getting close to Christmas.",
+  "annotation": "SOURCE_PATH_GOAL, CONTACT, SCALE",
+  "literal": "The car is approaching the city limits."
+}
+
+{
+  "original": "Will you be staying a long time or a short time?",
+  "annotation": "SCALE, CONTAINMENT",
+  "literal": "Is the rope long or short?"
+}
+
+{
+    "original": "What will be the length of his visit?",
+    "annotation": "SCALE, CONTAINMENT, SOURCE_PATH_GOAL",
+    "literal": "What will be the length of this rope?"
+}
+
+{
+    "original": "His visit to Russia extended over many years.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, COVERING",
+    "literal": "The bridge extended over the wide river."
+}
+
+{
+  "original": "Let's spread the conference over two weeks.",
+  "annotation": "COVERING, SPLITTING, SCALE",
+  "literal": "Let's spread the butter over the bread."
+}
+
+{
+  "original": "The conference runs from the first to the tenth of the month.",
+  "annotation": "SOURCE_PATH_GOAL, SCALE, CONTAINMENT",
+  "literal": "The marathon runs from the starting line to the finish line."
+}
+
+{
+  "original": "She arrived on time.",
+  "annotation": "SOURCE_PATH_GOAL, CONTACT, SCALE",
+  "literal": "The train arrived at the station on schedule."
+}
+
+{
+    "original": "He'll have his degree within two years.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, SCALE",
+    "literal": "The book is within the box for two hours."
+}
+
+{
+    "original": "I'll be there in a minute.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, SCALE",
+    "literal": "I'll walk to that location in sixty seconds."
+}
+
+{
+  "original": "He left at 10 o'clock.",
+  "annotation": "SOURCE_PATH_GOAL, OBJECT",
+  "literal": "The train departed from the station at 10 o'clock."
+}
+
+{
+    "original": "We passed the deadline.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT",
+    "literal": "We passed the signpost on the road."
+}
+
+{
+  "original": "We're halfway through September.",
+  "annotation": "SOURCE_PATH_GOAL, SCALE, CONTAINMENT",
+  "literal": "The car is halfway through the tunnel."
+}
+
+{
+  "original": "We've reached June already.",
+  "annotation": "SOURCE_PATH_GOAL, OBJECT",
+  "literal": "We've arrived at the city already."
+}
+
+{
+  "original": "That's all behind us now.",
+  "annotation": "SOURCE_PATH_GOAL, OBJECT, CONTAINMENT",
+  "literal": "The car is behind us on the road."
+}
+
+{
+  "original": "You can't go back in time!",
+  "annotation": "SOURCE_PATH_GOAL, FORCE, CONTAINMENT",
+  "literal": "You can't walk backwards on this path."
+}
+
+{
+  "original": "We're looking ahead to the future.",
+  "annotation": "SOURCE_PATH_GOAL, OBJECT, VERTICALITY",
+  "literal": "We're looking ahead to the road in front of us."
+}
+
+{
+  "original": "He has a great future in front of him.",
+  "annotation": "SOURCE_PATH_GOAL, OBJECT, CONTAINMENT",
+  "literal": "He has a large building in front of him."
+}
+
+{
+  "original": "She has a nice sense of humor.",
+  "annotation": "CONTAINMENT, OBJECT, SUBSTANCE",
+  "literal": "She has a nice collection of books."
+}
+
+{
+    "original": "He lost his tolerance for alcohol.",
+    "annotation": "CONTAINMENT, SUBSTANCE, SCALE, FORCE",
+    "literal": "He lost his wallet in the park."
+}
+
+{
+    "original": "She gained a new equanimity.",
+    "annotation": "OBJECT, SCALE, SOURCE_PATH_GOAL",
+    "literal": "She acquired a new book."
+}
+
+{
+    "original": "He got his red hair from his mother.",
+    "annotation": "SOURCE_PATH_GOAL, SUBSTANCE, LINK",
+    "literal": "He received the book from his mother."
+}
+
+{
+  "original": "He gave his son a sense of self-worth.",
+  "annotation": "OBJECT, TRANSFER, CONTAINMENT, SUBSTANCE",
+  "literal": "He handed his son a valuable object."
+}
+
+{
+    "original": "He gives his art a certain integrity.",
+    "annotation": "CONTAINMENT, OBJECT, SUBSTANCE, FORCE",
+    "literal": "He adds a specific ingredient to the mixture."
+}
+
+{
+    "original": "Harry has trouble.",
+    "annotation": "CONTAINMENT, OBJECT, SUBSTANCE",
+    "literal": "Harry has a book."
+}
+
+{
+    "original": "I have a headache.",
+    "annotation": "CONTAINMENT, OBJECT, POSSESSION",
+    "literal": "I hold a ball in my hands."
+}
+
+{
+  "original": "She has a sunny disposition.",
+  "annotation": "SUBSTANCE, CONTAINMENT, OBJECT",
+  "literal": "The sky has a sunny appearance."
+}
+
+{
+    "original": "This place has lost a lot of its charm.",
+    "annotation": "SUBSTANCE, CONTAINMENT, SCALE",
+    "literal": "This container has lost a lot of its contents."
+}
+
+{
+    "original": "The new mustache gave him an older appearance.",
+    "annotation": "COVERING, OBJECT, FORCE",
+    "literal": "The new hat covered his head completely."
+}
+
+{
+  "original": "The dummies were 2-to-1 in favor of the Arizona immigration law; the court gutted it. Only those dummies, not in a state of denial, understand that we the people have lost control of our government.",
+  "annotation": "CONTAINMENT, FORCE, OBJECT, SCALE, SPLITTING",
+  "literal": "The majority of voters supported the Arizona immigration law; the court invalidated most of its provisions. Only those citizens who acknowledge the reality understand that the public has diminished influence over governmental decisions."
+}
+
+{
+  "original": "But meanwhile, you may not have noticed that our government gave away control of the Internet.",
+  "annotation": "CONTAINMENT, OBJECT, FORCE, SOURCE_PATH_GOAL",
+  "literal": "The manager gave away the keys to the building."
+}
+
+{
+  "original": "You could talk about the dealerships, auto dealerships that were closed down when the government got control of a couple of the auto companies, an awful lot of people lost jobs, businesses were closed, and so on.",
+  "annotation": "CONTAINMENT, FORCE, OBJECT, SCALE, SOURCE_PATH_GOAL",
+  "literal": "The store owner locked the doors of several shops when the landlord took over the property, resulting in employees losing their positions and the businesses ceasing operations."
+}
+
+{
+  "original": "The Shadow Party: How George Soros, Hillary Clinton, and Sixties Radicals Seized Control of the Democratic Party",
+  "annotation": "CONTAINMENT, FORCE, OBJECT, PART-WHOLE",
+  "literal": "The group of people: How three individuals and their associates gained leadership positions within the political organization"
+}
+
+{
+    "original": "They assembled a theory.",
+    "annotation": "PART-WHOLE, OBJECT, FORCE",
+    "literal": "They assembled a puzzle."
+}
+
+{
+    "original": "They put/pieced a theory together.",
+    "annotation": "PART-WHOLE, OBJECT, FORCE",
+    "literal": "They assembled the puzzle pieces together."
+}
+
+{
+    "original": "One piece of the theory doesn't fit.",
+    "annotation": "PART-WHOLE, CONTAINMENT, OBJECT",
+    "literal": "One piece of the puzzle doesn't fit."
+}
+
+{
+    "original": "Her ego is very fragile.",
+    "annotation": "OBJECT, SUBSTANCE",
+    "literal": "The glass vase is very fragile."
+}
+
+{
+  "original": "You have to handle him with care since his wife's death.",
+  "annotation": "CONTACT, FORCE, OBJECT, COVERING",
+  "literal": "You have to hold the fragile vase carefully to avoid breaking it."
+}
+
+{
+    "original": "He broke under cross-examination.",
+    "annotation": "FORCE, SUPPORT, VERTICALITY",
+    "literal": "The glass broke under the weight of the books."
+}
+
+{
+  "original": "She is easily crushed.",
+  "annotation": "FORCE, OBJECT, SUBSTANCE",
+  "literal": "The can is easily crushed."
+}
+
+{
+    "original": "The experience shattered him.",
+    "annotation": "SPLITTING, FORCE, OBJECT",
+    "literal": "The hammer shattered the glass."
+}
+
+{
+  "original": "I'm going to pieces.",
+  "annotation": "SPLITTING, OBJECT, PART-WHOLE",
+  "literal": "The vase is breaking into pieces."
+}
+
+{
+  "original": "His mind snapped.",
+  "annotation": "SPLITTING, FORCE, OBJECT",
+  "literal": "The twig snapped in half."
+}
+
+{
+    "original": "He cracked up.",
+    "annotation": "SPLITTING, OBJECT",
+    "literal": "The glass cracked into pieces."
+}
+
+{
+  "original": "Do the exercises at the end of this chapter.",
+  "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, PART-WHOLE",
+  "literal": "Read the text at the back of this book."
+}
+
+{
+    "original": "She came to a calculated decision.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, OBJECT",
+    "literal": "She walked to a measured distance."
+}
+
+{
+    "original": "We're still trying to grind out the solution to this equation.",
+    "annotation": "FORCE, SUBSTANCE, SOURCE_PATH_GOAL",
+    "literal": "We're still trying to solve this complex equation step by step."
+}
+
+{
+    "original": "My mind isn't operating today.",
+    "annotation": "OBJECT, FORCE, CONTAINMENT",
+    "literal": "The machine isn't operating today."
+}
+
+{
+  "original": "Boy the wheels are turning now!",
+  "annotation": "FORCE, OBJECT, SOURCE_PATH_GOAL",
+  "literal": "The car wheels are rotating on the road."
+}
+
+{
+    "original": "I'm a little rusty today.",
+    "annotation": "SUBSTANCE, COVERING, SCALE",
+    "literal": "The metal surface is slightly rusty today."
+}
+
+{
+  "original": "We've been working on this problem all day and now we're running out of steam.",
+  "annotation": "SOURCE_PATH_GOAL, SUBSTANCE, FORCE, CONTAINMENT",
+  "literal": "The train has been running all day and now it's running out of fuel."
+}
+
+{
+  "original": "sharp anger",
+  "annotation": "OBJECT, FORCE",
+  "literal": "The knife is sharp."
+}
+
+{
+    "original": "pinpoint of anger",
+    "annotation": "CENTER-PERIPHERY, OBJECT, CONTAINMENT",
+    "literal": "center of a target"
+}
+
+{
+  "original": "spike of anger",
+  "annotation": "VERTICALITY, SCALE, SUBSTANCE, FORCE",
+  "literal": "spike of temperature"
+}
+
+{
+    "original": "hook of anger",
+    "annotation": "LINK, FORCE, OBJECT",
+    "literal": "hook on the wall"
+}
+
+{
+  "original": "blunted anger",
+  "annotation": "FORCE, OBJECT, SUBSTANCE",
+  "literal": "The knife's edge was blunted by the stone."
+}
+
+{
+  "original": "anger clips his words",
+  "annotation": "FORCE, CONTAINMENT, OBJECT",
+  "literal": "The scissors clip the paper"
+}
+
+{
+  "original": "prick/shaft of fear",
+  "annotation": "OBJECT, FORCE, SUBSTANCE",
+  "literal": "A needle pierces the skin."
+}
+
+{
+  "original": "fear cuts to her",
+  "annotation": "FORCE, CONTACT, SOURCE_PATH_GOAL, OBJECT",
+  "literal": "The knife cuts through the bread"
+}
+
+{
+    "original": "fear slices through Mary",
+    "annotation": "SPLITTING, FORCE, OBJECT, SOURCE_PATH_GOAL",
+    "literal": "The knife slices through the apple"
+}
+
+{
+  "original": "I was beside myself",
+  "annotation": "SPLITTING, OBJECT, CONTAINMENT",
+  "literal": "The book was beside the lamp on the table"
+}
+
+{
+  "original": "He destroys her joy",
+  "annotation": "FORCE, OBJECT, SPLITTING",
+  "literal": "He breaks the vase"
+}
+
+{
+  "original": "She breaks his joy",
+  "annotation": "SPLITTING, FORCE, OBJECT",
+  "literal": "She breaks the vase"
+}
+
+{
+    "original": "disgust be spur",
+    "annotation": "FORCE, SOURCE_PATH_GOAL",
+    "literal": "The horse be spurred"
+}
+
+{
+  "original": "shaft of disgust",
+  "annotation": "SUBSTANCE, CONTAINMENT, OBJECT",
+  "literal": "shaft of metal"
+}
+
+{
+  "original": "heavy disgust",
+  "annotation": "SUBSTANCE, SCALE, FORCE",
+  "literal": "heavy stone"
+}
+
+{
+    "original": "It outweighs disgust",
+    "annotation": "SCALE, FORCE, OBJECT",
+    "literal": "The stone outweighs the feather"
+}
+
+{
+    "original": "Are you going to the race?",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT",
+    "literal": "Are you walking to the stadium?"
+}
+
+{
+  "original": "Did you see the race?",
+  "annotation": "SOURCE_PATH_GOAL, OBJECT",
+  "literal": "Did you watch the runners move along the track?"
+}
+
+{
+  "original": "He's seeking his fortune.",
+  "annotation": "SOURCE_PATH_GOAL, OBJECT",
+  "literal": "He's searching for a hidden treasure."
+}
+
+{
+  "original": "He's flaunting his new-found wealth.",
+  "annotation": "COVERING, OBJECT, FORCE",
+  "literal": "He's displaying his new expensive car."
+}
+
+{
+  "original": "He's a fortune-hunter.",
+  "annotation": "SOURCE_PATH_GOAL, OBJECT",
+  "literal": "He's a treasure seeker in an ancient ruin."
+}
+
+{
+  "original": "She's a gold-digger.",
+  "annotation": "SUBSTANCE, OBJECT, SOURCE_PATH_GOAL",
+  "literal": "She's a miner extracting gold from the earth."
+}
+
+{
+  "original": "He lost his fortune.",
+  "annotation": "CONTAINMENT, OBJECT, FORCE, SOURCE_PATH_GOAL",
+  "literal": "He dropped his wallet."
+}
+
+{
+  "original": "He's searching for wealth.",
+  "annotation": "SOURCE_PATH_GOAL, OBJECT",
+  "literal": "He's searching for his lost keys."
+}
+
+{
+    "original": "Let's look at the make-up of this problem.",
+    "annotation": "CONTAINMENT, PART-WHOLE, OBJECT",
+    "literal": "Let's examine the components of this machine."
+}
+
+{
+    "original": "Let's look at all the components of the problem.",
+    "annotation": "PART-WHOLE, OBJECT, CONTAINMENT",
+    "literal": "Let's examine all the parts of the machine."
+}
+
+{
+    "original": "A lot of factors went into creating this problem.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, FORCE",
+    "literal": "Many ingredients went into making this dish."
+}
+
+{
+    "original": "He took the problem apart piece by piece.",
+    "annotation": "SPLITTING, PART-WHOLE, OBJECT",
+    "literal": "He disassembled the machine part by part."
+}
+
+{
+  "original": "He tore the problem apart looking for its solution.",
+  "annotation": "SPLITTING, OBJECT, PART-WHOLE, CONTAINMENT",
+  "literal": "He tore the paper apart looking for the hidden message."
+}
+
+{
+    "original": "Das ist seine Seite des Dilemmas.",
+    "annotation": "PART-WHOLE, CONTAINMENT, OBJECT",
+    "literal": "Das ist die linke Seite des Buches."
+}
+
+{
+  "original": "…das Verhältnis zwischen Deutschen und Ausländern zu beschädigen.",
+  "annotation": "LINK, FORCE, OBJECT",
+  "literal": "…die Brücke zwischen zwei Ufern zu zerstören."
+}
+
+{
+    "original": "Je näher man die Politik betrachte…",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, CENTER-PERIPHERY",
+    "literal": "Je näher man an das Gebäude herantrete..."
+}
+
+{
+  "original": "Sabbatai Zwis Auftreten…wuchs sich zu einem handfesten Skandal aus.",
+  "annotation": "SOURCE_PATH_GOAL, SCALE, SUBSTANCE, OBJECT",
+  "literal": "Der Baum wuchs zu einer beachtlichen Größe heran."
+}
+
+{
+  "original": "…Maßnahmen ergreifen.",
+  "annotation": "OBJECT, FORCE, SOURCE_PATH_GOAL",
+  "literal": "…einen Ball greifen."
+}
+
+{
+  "original": "…im Besitz der absoluten Mehrheit?",
+  "annotation": "CONTAINMENT, OBJECT, SCALE",
+  "literal": "…in possession of the majority of physical objects?"
+}
+
+{
+  "original": "…konnten es kaum fassen, dass…",
+  "annotation": "CONTAINMENT, FORCE, OBJECT",
+  "literal": "…konnten den Ball kaum in den Händen halten, weil…"
+}
+
+{
+  "original": "…trägt alle Umweltinformationen…zusammen.",
+  "annotation": "CONTAINMENT, FORCE, OBJECT, PART-WHOLE",
+  "literal": "The worker carries all the boxes together into one pile."
+}
+
+{
+    "original": "…Wissenslücken.",
+    "annotation": "CONTAINMENT, OBJECT",
+    "literal": "There are gaps in the fence."
+}
+
+{
+    "original": "My mind was racing.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "The car was racing on the track."
+}
+
+{
+    "original": "My mind is tired.",
+    "annotation": "SUBSTANCE, CONTAINMENT, FORCE",
+    "literal": "My body is tired."
+}
+
+{
+  "original": "I see what you mean.",
+  "annotation": "CONTACT, OBJECT, FORCE",
+  "literal": "I see the object in front of me."
+}
+
+{
+  "original": "Something doesn't smell quite right here.",
+  "annotation": "SUBSTANCE, CONTAINMENT, SCALE",
+  "literal": "The food in the refrigerator doesn't smell fresh."
+}
+
+{
+    "original": "Listen to what your father tells you.",
+    "annotation": "LINK, FORCE, SOURCE_PATH_GOAL",
+    "literal": "Listen to the sound coming from the speaker."
+}
+
+{
+  "original": "I have no idea what my friends are doing, they've kept me completely in the dark.",
+  "annotation": "CONTAINMENT, COVERING, FORCE",
+  "literal": "The box is completely enclosed in a dark room."
+}
+
+{
+    "original": "I've almost got an idea, but I can't quite put my finger on it.",
+    "annotation": "CONTACT, OBJECT, CONTAINMENT, FORCE",
+    "literal": "I've almost grasped the object, but I can't quite touch it with my finger."
+}
+
+{
+  "original": "I could never put my finger on what the problem was. I felt crazy at times and there were so many times that I would approach him with a very well-thought out ...",
+  "annotation": "CONTACT, SOURCE_PATH_GOAL, CONTAINMENT, OBJECT",
+  "literal": "I could never precisely identify the issue. I felt confused at times and there were many occasions when I would talk to him with a carefully prepared ..."
+}
+
+{
+    "original": "The marks on the carpet show that the perpetrator wore boots.",
+    "annotation": "CONTACT, CONTAINMENT, OBJECT, PART-WHOLE",
+    "literal": "The footprints on the sand show that the person walked barefoot."
+}
+
+{
+  "original": "Let me illustrate the theory with some examples.",
+  "annotation": "CONTAINMENT, OBJECT, SUPPORT",
+  "literal": "Let me draw the diagram with some pictures."
+}
+
+{
+    "original": "I'm now going to show you that you are wrong.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT, CONTACT",
+    "literal": "I'm now going to point at the incorrect answer on the paper."
+}
+
+{
+    "original": "He pointed out that global warming is real.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "He pointed at the visible object on the table."
+}
+
+{
+    "original": "Do I have to draw a picture for you?",
+    "annotation": "CONTAINMENT, OBJECT, SOURCE_PATH_GOAL",
+    "literal": "Do I have to create a visual image on paper for you?"
+}
+
+{
+  "original": "He painted an idyllic picture of their life together.",
+  "annotation": "CONTAINMENT, OBJECT, COVERING",
+  "literal": "He painted a colorful landscape on the canvas."
+}
+
+{
+    "original": "For many weeks, I couldn't see how to solve the problem.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, OBJECT, COVERING",
+    "literal": "For many hours, I couldn't find the missing piece of the puzzle."
+}
+
+{
+  "original": "I see that the two lines must be equal, but I don't know how to prove it.",
+  "annotation": "OBJECT, SCALE, LINK",
+  "literal": "I observe that the two physical lines on the paper are the same length, but I can't measure them precisely."
+}
+
+{
+  "original": "…scharfe, stechende und durchbohrende Blicke…",
+  "annotation": "FORCE, OBJECT, SOURCE_PATH_GOAL",
+  "literal": "…scharfe, stechende und durchbohrende Nadeln…"
+}
+
+{
+  "original": "…die Wirklichkeit in den Griff zu bekommen.",
+  "annotation": "CONTAINMENT, FORCE, OBJECT",
+  "literal": "…den Ball fest in der Hand zu halten."
+}
+
+{
+  "original": "…importiert das alte Westdenken…",
+  "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, OBJECT",
+  "literal": "…imports the old furniture…"
+}
+
+{
+  "original": "…droht die Kontrolle…zu entgleiten.",
+  "annotation": "FORCE, SOURCE_PATH_GOAL, CONTAINMENT",
+  "literal": "The train threatens to derail from the tracks."
+}
+
+{
+    "original": "Sie bringen die Zukunft in die Stadt.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, OBJECT",
+    "literal": "Sie bringen die Pakete in die Stadt."
+}
+
+{
+  "original": "Die von Ernst triefende linke Argumentation wird der Ironie und dem Sarkasmus der Reaktionäre gegenübergestellt.",
+  "annotation": "SUBSTANCE, VERTICALITY, FORCE, OBJECT",
+  "literal": "Die linke Seite des Raumes wird der rechten Seite gegenübergestellt."
+}
+
+{
+  "original": "…die Erfahrungen...zu der Doktrin bündeln…",
+  "annotation": "CONTAINMENT, PART-WHOLE, FORCE, OBJECT",
+  "literal": "…die Stöcke...zu einem Bündel zusammenbinden…"
+}
+
+{
+    "original": "Mit das Solideste, was einem Menschen…zufallen kann, ist die…Ansicht…",
+    "annotation": "SUPPORT, FORCE, OBJECT, SOURCE_PATH_GOAL",
+    "literal": "Das stabilste Fundament, auf dem ein Gebäude stehen kann, ist der feste Boden."
+}
+
+{
+    "original": "…Erfahrungen gesammelt.",
+    "annotation": "CONTAINMENT, OBJECT, SUBSTANCE",
+    "literal": "…Beeren gesammelt."
+}
+
+{
+  "original": "Vorerst liegt eine Tatsache klar auf der Hand…",
+  "annotation": "SUPPORT, OBJECT, CONTAINMENT",
+  "literal": "Das Buch liegt klar auf dem Tisch."
+}
+
+{
+  "original": "…massive Probleme…",
+  "annotation": "SUBSTANCE, SCALE, OBJECT",
+  "literal": "…heavy rocks…"
+}
+
+{
+  "original": "…regneten die Signale auf die Antennenschüssel",
+  "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, FORCE, SUBSTANCE",
+  "literal": "Die Regentropfen fielen auf das Dach"
+}
+
+{
+  "original": "…nachdem er das Staatsamt aus den Händen gegeben hatte.",
+  "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, OBJECT",
+  "literal": "…nachdem er das Dokument aus der Schublade genommen hatte."
+}
+
+{
+  "original": "Diesen Vorwurf…will der Vorsitzende…nicht im Raum stehen lassen.",
+  "annotation": "CONTAINMENT, OBJECT, SUPPORT, FORCE",
+  "literal": "Der Stuhl steht nicht im Raum."
+}
+
+{
+  "original": "…erhärtet sich vielmehr der Verdacht…",
+  "annotation": "SUBSTANCE, FORCE, OBJECT",
+  "literal": "Der Beton erhärtet sich in der Form."
+}
+
+{
+  "original": "Die Beziehung zerbricht Ende 1978.",
+  "annotation": "SPLITTING, OBJECT, FORCE",
+  "literal": "Das Glas zerbricht auf dem Boden."
+}
+
+{
+  "original": "…indem sie Dänemark vor vollendete Tatsachen stellten.",
+  "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+  "literal": "…indem sie den Stein vor die Mauer stellten."
+}
+
+{
+  "original": "…den…eingefrorenen sozialen Dialog…",
+  "annotation": "SUBSTANCE, CONTAINMENT, FORCE",
+  "literal": "…den…erstarrten Eisblock…"
+}
+
+{
+    "original": "Sie haben Schicksal selbst in die Hand genommen.",
+    "annotation": "CONTAINMENT, OBJECT, FORCE, CONTACT",
+    "literal": "Sie haben den Ball in die Hand genommen."
+}
+
+{
+  "original": "Die Skispringer tragen die deutschen Hoffnungen bei der nordischen Weltmeisterschaft…",
+  "annotation": "SUPPORT, FORCE, CONTAINMENT",
+  "literal": "Die Athleten tragen ihre Skier zum Wettkampf bei der nordischen Weltmeisterschaft."
+}
+
+{
+  "original": "…ein Stück ökonomischen Souveränität…",
+  "annotation": "PART-WHOLE, OBJECT, SUBSTANCE",
+  "literal": "…ein Stück Kuchen…"
+}
+
+{
+  "original": "…für eine Reihe von Fragen…",
+  "annotation": "CONTAINMENT, PART-WHOLE, SCALE",
+  "literal": "…für eine Reihe von Büchern im Regal…"
+}
+
+{
+    "original": "Aber in den Plädoyers…steckt doch wieder mehr Ehrlichkeit…",
+    "annotation": "CONTAINMENT, SUBSTANCE, SCALE",
+    "literal": "In der Schachtel stecken mehr Stifte."
+}
+
+{
+    "original": "…eine Menge Gründe…",
+    "annotation": "CONTAINMENT, SUBSTANCE, SCALE",
+    "literal": "…ein Haufen Steine…"
+}
+
+{
+    "original": "Es war keine Spur von Ironie in diesen Worten…",
+    "annotation": "CONTAINMENT, SUBSTANCE, OBJECT",
+    "literal": "Es war kein Tropfen Wasser in diesem Glas."
+}
+
+{
+  "original": "…Paket von Maßnahmen…",
+  "annotation": "CONTAINMENT, OBJECT, PART-WHOLE",
+  "literal": "…Box of items…"
+}
+
+{
+    "original": "…ein Stückchen Angst…",
+    "annotation": "PART-WHOLE, SUBSTANCE, OBJECT",
+    "literal": "…ein Stückchen Brot…"
+}
+
+{
+  "original": "…Verknappung der Zivilcourage.",
+  "annotation": "SUBSTANCE, SCALE, CONTAINMENT",
+  "literal": "…Reduction of the water supply."
+}
+
+{
+  "original": "…die sich nun häufenden Meldungen…",
+  "annotation": "SCALE, OBJECT, CONTAINMENT",
+  "literal": "Die Stapel von Papieren auf dem Schreibtisch häufen sich."
+}
+
+{
+  "original": "…einen Minimalvorrat an Solidarität angesammelt haben.",
+  "annotation": "CONTAINMENT, SUBSTANCE, SCALE",
+  "literal": "…einen Minimalvorrat an Lebensmitteln angesammelt haben."
+}
+
+{
+    "original": "Mit dem Bergbau bricht ein wichtiger Teil der nationalen Identität weg.",
+    "annotation": "PART-WHOLE, SPLITTING, FORCE, SUPPORT",
+    "literal": "Ein Stück Fels bricht von der Felswand ab."
+}
+
+{
+  "original": "…eine Anhäufung so vieler Probleme…",
+  "annotation": "CONTAINMENT, OBJECT, SCALE",
+  "literal": "…eine Anhäufung so vieler Steine…"
+}
+
+{
+  "original": "Mit reichlich Unverständnis…",
+  "annotation": "SUBSTANCE, CONTAINMENT",
+  "literal": "Mit reichlich Wasser…"
+}
+
+{
+  "original": "Hinter den vagen Befürchtungen der Menschen stehen im übrigen konkrete Sorgen…",
+  "annotation": "CONTAINMENT, SUPPORT, VERTICALITY, OBJECT",
+  "literal": "Hinter den Bäumen stehen im Wald konkrete Gegenstände."
+}
+
+{
+  "original": "An erster Stelle stehen die Kosten…",
+  "annotation": "VERTICALITY, SCALE, OBJECT",
+  "literal": "Die Kosten sind auf der obersten Zeile der Liste geschrieben."
+}
+
+{
+  "original": "Natürlich stecke in den Verhandlungen mit der SPD eine gewisse Gefahr…",
+  "annotation": "CONTAINMENT, OBJECT, SUBSTANCE",
+  "literal": "Der Schlüssel steckt im Schloss."
+}
+
+{
+  "original": "Wo bleibt da die Gerechtigkeit?",
+  "annotation": "CONTAINMENT, OBJECT, SOURCE_PATH_GOAL",
+  "literal": "Wo liegt das Buch auf dem Tisch?"
+}
+
+{
+    "original": "Die Schuldfrage – am Anfang stand die Lüge – bleibt auf dem Tisch.",
+    "annotation": "SUPPORT, CONTAINMENT, SOURCE_PATH_GOAL, OBJECT",
+    "literal": "Das Buch bleibt auf dem Tisch liegen."
+}
+
+{
+  "original": "Wo der Kanzler im Bundestag die Zweidrittelmehrheit sucht…",
+  "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, OBJECT",
+  "literal": "Wo der Sucher im Raum den versteckten Gegenstand findet…"
+}
+
+{
+  "original": "Teilweise stand dahinter wohl die Überlegung…",
+  "annotation": "CONTAINMENT, SUPPORT, VERTICALITY",
+  "literal": "Der Schrank steht teilweise hinter der Wand."
+}
+
+{
+    "original": "Sie [die Antwort] liegt…zwischen beiden Positionen…",
+    "annotation": "CENTER-PERIPHERY, CONTAINMENT, OBJECT, SCALE",
+    "literal": "Das Buch liegt zwischen zwei Bücherstützen."
+}
+
+{
+  "original": "Wenn ihre Begabungen und Neigungen woanders liegen…",
+  "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, OBJECT",
+  "literal": "Wenn ihre Bücher und Stifte auf einem anderen Tisch liegen…"
+}
+
+{
+  "original": "Der Hohn…der in der Sinnverkehrungsthese liegt…",
+  "annotation": "CONTAINMENT, OBJECT",
+  "literal": "Der Stein liegt in der Schachtel."
+}
+
+{
+  "original": "Hinter den divergierenden Inflationsraten…wird ein strukturelles Dilemma sichtbar…",
+  "annotation": "COVERING, SOURCE_PATH_GOAL, OBJECT",
+  "literal": "Hinter dem Vorhang wird ein Gegenstand sichtbar."
+}
+
+{
+    "original": "Wo liegt dann das Problem bei Bush?",
+    "annotation": "CONTAINMENT, OBJECT, SOURCE_PATH_GOAL",
+    "literal": "Wo liegt dann der Stein auf dem Boden?"
+}
+
+{
+  "original": "Doch hinter der gegenwärtigen Schwäche könnte auch mehr stecken.",
+  "annotation": "CONTAINMENT, COVERING, OBJECT",
+  "literal": "Hinter dem Vorhang könnte sich ein größerer Gegenstand verbergen."
+}
+
+{
+  "original": "…die Wahrheit irgendwo zwischen der Position von Margaret Thatcher und der von Arthur Scargill zu suchen war.",
+  "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, SCALE",
+  "literal": "The book is located somewhere between the two bookends on the shelf."
+}
+
+{
+    "original": "The plans for the trip have finally been firmed up.",
+    "annotation": "SUBSTANCE, CONTAINMENT, FORCE",
+    "literal": "The concrete has finally hardened and solidified."
+}
+
+{
+    "original": "Next year's budget is fairly solid at this point.",
+    "annotation": "SUBSTANCE, OBJECT, SCALE",
+    "literal": "The concrete foundation is fairly solid at this point."
+}
+
+{
+    "original": "He lost his faith.",
+    "annotation": "CONTAINMENT, OBJECT, FORCE, SOURCE_PATH_GOAL",
+    "literal": "He lost his wallet."
+}
+
+{
+    "original": "He got rid of his headache.",
+    "annotation": "CONTAINMENT, FORCE, SOURCE_PATH_GOAL",
+    "literal": "He removed the rock from his backpack."
+}
+
+{
+  "original": "The US handed over control of the prisoners to Afghan authorities.",
+  "annotation": "SOURCE_PATH_GOAL, FORCE, CONTAINMENT, OBJECT",
+  "literal": "The teacher handed over the papers to the students."
+}
+
+{
+  "original": "The Democrats wrested control of four governerships from the Republicans",
+  "annotation": "FORCE, CONTAINMENT, OBJECT, SOURCE_PATH_GOAL",
+  "literal": "The player wrested the ball from the opponent's hands"
+}
+
+{
+    "original": "The government acquired control of the company's assets.",
+    "annotation": "CONTAINMENT, OBJECT, FORCE, PART-WHOLE",
+    "literal": "The buyer acquired ownership of the house."
+}
+
+{
+  "original": "One down of the three pillars of \"unalienable\" rights that hold up this great country of ours.",
+  "annotation": "SUPPORT, VERTICALITY, PART-WHOLE, CONTAINMENT",
+  "literal": "One of the three columns that support the roof of the building has fallen."
+}
+
+{
+  "original": "This is an us against-them battle, but the 'them' are those who would dismantle our rights.",
+  "annotation": "FORCE, SPLITTING, CONTAINMENT, OBJECT",
+  "literal": "This is a physical fight between two groups, where one group is trying to break apart a structure belonging to the other group."
+}
+
+{
+  "original": "Don't let anyone take away your right to vote.",
+  "annotation": "OBJECT, FORCE, SOURCE_PATH_GOAL, CONTAINMENT",
+  "literal": "Don't let anyone take away your wallet from your pocket."
+}
+
+{
+  "original": "The government's move to censor the internet is trampling all over our rights to free speech and freedom of the press.",
+  "annotation": "FORCE, COVERING, CONTAINMENT, OBJECT",
+  "literal": "The elephant's feet are trampling all over the grass in the field."
+}
+
+{
+    "original": "He has control over all the workers.",
+    "annotation": "CONTAINMENT, FORCE, VERTICALITY, SCALE",
+    "literal": "The manager directs the actions of all employees."
+}
+
+{
+    "original": "The president kept his hold on power.",
+    "annotation": "FORCE, CONTAINMENT, OBJECT",
+    "literal": "The man kept his grip on the handle."
+}
+
+{
+    "original": "She regained control of the assembly.",
+    "annotation": "CONTAINMENT, FORCE, OBJECT",
+    "literal": "She grabbed the steering wheel of the car."
+}
+
+{
+  "original": "He possesses the power to heal small animals.",
+  "annotation": "CONTAINMENT, FORCE, OBJECT",
+  "literal": "He holds a medicine that can cure small animals."
+}
+
+{
+  "original": "He's putty in her hands.",
+  "annotation": "CONTAINMENT, SUBSTANCE, FORCE, OBJECT",
+  "literal": "The clay is molded in her hands."
+}
+
+{
+    "original": "You gave me a great idea!",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, FORCE",
+    "literal": "You handed me a large book."
+}
+
+{
+  "original": "Try to pack more thoughts into fewer words.",
+  "annotation": "CONTAINMENT, SUBSTANCE, OBJECT",
+  "literal": "Try to pack more clothes into a smaller suitcase."
+}
+
+{
+  "original": "Whenever you have a good idea practice capturing it in words.",
+  "annotation": "CONTAINMENT, OBJECT, SUBSTANCE",
+  "literal": "Whenever you catch a fish, practice putting it in a net."
+}
+
+{
+  "original": "Don't force your meanings into the wrong words.",
+  "annotation": "FORCE, CONTAINMENT, OBJECT, SOURCE_PATH_GOAL",
+  "literal": "Don't push the blocks into the wrong slots."
+}
+
+{
+    "original": "Try to get your thoughts across better.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, FORCE",
+    "literal": "Try to move the package across the room better."
+}
+
+{
+  "original": "You still have to give me an idea of what you mean.",
+  "annotation": "FORCE, SOURCE_PATH_GOAL, OBJECT, CONTAINMENT",
+  "literal": "You still have to hand me a physical object that represents your meaning."
+}
+
+{
+    "original": "We have to restructure this firm.",
+    "annotation": "OBJECT, PART-WHOLE, FORCE",
+    "literal": "We have to rearrange the furniture in this room."
+}
+
+{
+  "original": "Every new bill the President proposes chips away at our freedoms.",
+  "annotation": "FORCE, SUBSTANCE, SPLITTING, SCALE",
+  "literal": "The sculptor chips away at the stone block to create a statue."
+}
+
+{
+  "original": "Imposing martial law will undermine the very foundations of democracy.",
+  "annotation": "SUPPORT, FORCE, VERTICALITY, OBJECT",
+  "literal": "Removing the support beams will weaken the foundation of the building."
+}
+
+{
+  "original": "Do gun rights protect against tyranny?",
+  "annotation": "FORCE, CONTAINMENT, OBJECT",
+  "literal": "Does the shield protect against the sword?"
+}
+
+{
+  "original": "plant the seeds of democracy",
+  "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, OBJECT, SUBSTANCE",
+  "literal": "plant the seeds in the soil"
+}
+
+{
+  "original": "democracy blossoms",
+  "annotation": "OBJECT, SOURCE_PATH_GOAL, SCALE",
+  "literal": "The flower blossoms in the garden"
+}
+
+{
+  "original": "democracy for sale",
+  "annotation": "OBJECT, SUBSTANCE, CONTAINMENT",
+  "literal": "The car is for sale"
+}
+
+{
+    "original": "force-feed the economy back to health",
+    "annotation": "FORCE, SOURCE_PATH_GOAL, SUBSTANCE, CONTAINMENT",
+    "literal": "force-feed the patient back to health"
+}
+
+{
+  "original": "Withered government: leave it to the rich",
+  "annotation": "SUBSTANCE, FORCE, SOURCE_PATH_GOAL",
+  "literal": "Withered plant: leave it in the sun"
+}
+
+{
+  "original": "Government is not a machine, but a living thing. It falls, not under the theory of the universe, but under the theory of organic life. It is accountable to Darwin, not to Newton. It is modified by its environment, necessitated by its tasks, shaped to its functions by the sheer pressure of life. No living thing can have its organs offset against each other, as checks, and live.",
+  "annotation": "OBJECT, SUBSTANCE, FORCE, CONTAINMENT, SCALE, SOURCE_PATH_GOAL",
+  "literal": "A plant is not a rock, but a living organism. It grows according to biological principles, not physical laws. It responds to sunlight and water, not gravity. It adapts to its soil conditions, develops based on its needs, and is shaped by environmental pressures. No organism can function properly if its internal systems work against each other."
+}
+
+{
+  "original": "This responsibility falls squarely on the shoulders of the government.",
+  "annotation": "SUPPORT, FORCE, VERTICALITY, OBJECT",
+  "literal": "The heavy box falls squarely on the table."
+}
+
+{
+  "original": "Obama, Dems flex muscles on energy policy as platform embraces options",
+  "annotation": "FORCE, CONTAINMENT, OBJECT, SUPPORT",
+  "literal": "Politicians exert influence on energy decisions as policy framework includes alternatives"
+}
+
+{
+  "original": "China Using Government Muscle to Turbo Charge its Auto Industry",
+  "annotation": "FORCE, SUBSTANCE, OBJECT, SCALE",
+  "literal": "The mechanic is using a powerful tool to increase the engine's performance"
+}
+
+{
+    "original": "India government regains its muscle with reforms",
+    "annotation": "FORCE, SUBSTANCE, OBJECT",
+    "literal": "The athlete regains muscle strength with exercise"
+}
+
+{
+    "original": "the gun lobby has squashed federal funding",
+    "annotation": "FORCE, CONTAINMENT, OBJECT",
+    "literal": "The heavy weight has flattened the cardboard box"
+}
+
+{
+    "original": "It was a traumatic experience.",
+    "annotation": "FORCE, CONTAINMENT, OBJECT",
+    "literal": "It was a painful physical injury."
+}
+
+{
+  "original": "Her death hurt him.",
+  "annotation": "FORCE, CONTACT, OBJECT",
+  "literal": "The hammer hurt his thumb."
+}
+
+{
+    "original": "The accusation wounded her.",
+    "annotation": "FORCE, CONTACT, OBJECT",
+    "literal": "The knife wounded her arm."
+}
+
+{
+    "original": "He's mentally ill/fit.",
+    "annotation": "SCALE, CONTAINMENT, SUBSTANCE",
+    "literal": "The water level in the tank is low/high."
+}
+
+{
+  "original": "My pride was wounded.",
+  "annotation": "OBJECT, FORCE, CONTACT",
+  "literal": "My skin was cut by a knife."
+}
+
+{
+  "original": "She recovered from the wound to her psyche, but scars remained.",
+  "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, OBJECT, SUBSTANCE",
+  "literal": "She recovered from the physical injury, but visible marks remained on her skin."
+}
+
+{
+  "original": "International Poll Finds U.S. Still Viewed As World's Bully",
+  "annotation": "FORCE, SCALE, CENTER-PERIPHERY",
+  "literal": "Large student intimidates classmates in school playground"
+}
+
+{
+    "original": "Another round of cuts will cripple the economy.",
+    "annotation": "FORCE, OBJECT, PART-WHOLE",
+    "literal": "Another blow will break the machine's gears."
+}
+
+{
+    "original": "Cynicism has killed the gun-control debate",
+    "annotation": "FORCE, OBJECT, SUBSTANCE",
+    "literal": "The poison has killed the animal"
+}
+
+{
+  "original": "oppressive shackles of gun control",
+  "annotation": "CONTAINMENT, FORCE, LINK, OBJECT",
+  "literal": "Metal shackles restrain a prisoner's movements."
+}
+
+{
+  "original": "I believe in personal responsibility and the government shouldn't be a babysitter but I also believe in compassion for less advantageous people.",
+  "annotation": "SUPPORT, CONTAINMENT, FORCE, SCALE",
+  "literal": "I hold the weight of my own actions and the organization shouldn't physically care for adults, but I also provide physical assistance to people with fewer resources."
+}
+
+{
+  "original": "Can I decide what size soda I want to drink? No, that's the nanny state's job.",
+  "annotation": "CONTAINMENT, SCALE, FORCE, OBJECT",
+  "literal": "Can I choose the volume of liquid in my cup? No, the supervisor determines that."
+}
+
+{
+  "original": "The Syrian government is driving Syria into a dangerous zone.",
+  "annotation": "SOURCE_PATH_GOAL, FORCE, CONTAINMENT",
+  "literal": "The driver is steering the car into a restricted area."
+}
+
+{
+  "original": "The current Japanese government is steering the country toward Socialism.",
+  "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+  "literal": "The captain is steering the ship toward the harbor."
+}
+
+{
+  "original": "Signal left, turn right: central rhetoric and local reform in China.",
+  "annotation": "SOURCE_PATH_GOAL, FORCE, CONTAINMENT, CENTER-PERIPHERY",
+  "literal": "The car signals left, turns right: central instructions and local actions in the country."
+}
+
+{
+  "original": "In my view, the federal government should lead the way. The bill we've introduced requires the federal government to increase its use of renewable electricity and reduce its overall energy consumption in federal buildings, both new and old. We can't expect consumers to embrace energy efficient technology if their government does not do the same.",
+  "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, SCALE, FORCE, LINK",
+  "literal": "The tour guide should walk at the front of the group. The new rules require the building manager to use more solar panels and reduce electricity usage in all office spaces, both recently constructed and long-standing. Employees are more likely to adopt new practices if their supervisors demonstrate them first."
+}
+
+{
+  "original": "Parents are so uneducated about health that they will follow the government down any misguided path.",
+  "annotation": "SOURCE_PATH_GOAL, FORCE, LINK",
+  "literal": "Hikers are so unfamiliar with the terrain that they will follow the guide along any difficult trail."
+}
+
+{
+    "original": "Big Father: The Government as Parent",
+    "annotation": "CONTAINMENT, PART-WHOLE, SCALE, SUPPORT",
+    "literal": "The large father figure stands as the head of the family"
+}
+
+{
+  "original": "Doctrine of Parens Patriae." Parens Patriae means literally, "parent of the country." It refers traditionally to the role of STATE as sovereign and guardian of persons under legal disability.",
+  "annotation": "CONTAINMENT, SUPPORT, COVERING, FORCE",
+  "literal": "The parent protects and cares for their child within the family home."
+}
+
+{
+  "original": "The US government loves you. In fact, it loves you so much that it's willing shackle your legs together. Just to protect you – tough love, baby. Now, it may hurt a bit but just try to breathe through the pain. Remember – it hurts the government more than it hurts you.",
+  "annotation": "CONTAINMENT, FORCE, LINK, CONTACT, SCALE",
+  "literal": "The prison guard restrains the inmate's legs with shackles. This physical restraint is meant to control movement. The shackles may cause discomfort, but the guard insists it's necessary for security."
+}
+
+{
+  "original": "A proper government is only a policeman, acting as an agent of man's self-defense, and, as such, may resort to force only against those who start the use of force.",
+  "annotation": "OBJECT, FORCE, CONTAINMENT, SUPPORT",
+  "literal": "A security guard is stationed at the entrance, monitoring for potential threats and intervening only when someone initiates physical aggression."
+}
+
+{
+  "original": "The government should cater to the needs of its citizens.",
+  "annotation": "SUPPORT, CONTAINMENT, FORCE",
+  "literal": "The restaurant should serve food to its customers."
+}
+
+{
+    "original": "Citizen Sheep Government Shepherds",
+    "annotation": "CONTAINMENT, PART-WHOLE, FORCE, SUPPORT",
+    "literal": "The flock of sheep is guided by the shepherds"
+}
+
+{
+  "original": "Such a power does not destroy, but it prevents existence; it does not tyrannize, but it compresses, enervates, extinguishes, and stupefies a people, till each nation is reduced to nothing better than a flock of timid and industrious animals, of which the government is the shepherd.",
+  "annotation": "FORCE, CONTAINMENT, SCALE, SUBSTANCE, OBJECT",
+  "literal": "The pressure does not break the container, but it prevents expansion; it does not crush, but it compresses, weakens, diminishes, and slows the contents, until the material is reduced to a compact mass, which the machine manages."
+}
+
+{
+  "original": "Obama and the Progressives do not believe this. They believe they must decide what is best. In their view Americans are sheep and they are the shepherd.",
+  "annotation": "CONTAINMENT, FORCE, OBJECT, SCALE",
+  "literal": "The leaders make decisions for the group. They believe they should choose the direction. In their organization, the members follow and the leaders guide."
+}
+
+{
+  "original": "There can be no doubt that the federal government is the new slave master, something the Founding Fathers warned us against.",
+  "annotation": "CONTAINMENT, FORCE, LINK, VERTICALITY",
+  "literal": "The manager is in charge of the employees, a situation the company policies caution against."
+}
+
+{
+    "original": "Government should be a referee, not an active player",
+    "annotation": "OBJECT, FORCE, CONTAINMENT",
+    "literal": "The umpire should oversee the game, not participate as a team member"
+}
+
+{
+  "original": "The economy is falling apart.",
+  "annotation": "SPLITTING, VERTICALITY, OBJECT, FORCE",
+  "literal": "The vase is falling and breaking into pieces."
+}
+
+{
+  "original": "With The Economy Humming, Will Manufacturing Software Help Manufacturers Stay In Tune?",
+  "annotation": "SUBSTANCE, FORCE, LINK, SUPPORT",
+  "literal": "With the machine running smoothly, will the maintenance tools help keep the equipment functioning properly?"
+}
+
+{
+  "original": "Although we have a long way to go before we can put this recession behind us, the gears of our economic engine do appear ... to be slowly turning once again,",
+  "annotation": "SOURCE_PATH_GOAL, OBJECT, FORCE, CONTAINMENT, VERTICALITY",
+  "literal": "Although we have a long distance to travel before we reach our destination, the mechanical parts of our vehicle are starting to move again,"
+}
+
+{
+  "original": "With a heavy Republican majority, Congress churned out bill after bill.",
+  "annotation": "FORCE, SUBSTANCE, SOURCE_PATH_GOAL, SCALE",
+  "literal": "The factory churned out product after product on the assembly line."
+}
+
+{
+  "original": "With a unified House and Senate, the well-oiled gears of government turn smoothly.",
+  "annotation": "OBJECT, PART-WHOLE, FORCE, SUBSTANCE",
+  "literal": "With properly lubricated gears, the machine operates smoothly."
+}
+
+{
+  "original": "I look forward to helping keep the legislative wheels turning smoothly in our 105-day session.",
+  "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT, CONTAINMENT",
+  "literal": "I will assist in maintaining the efficient operation of machinery during our 105-day work period."
+}
+
+{
+  "original": "Cloture would make the legislative gears turn smoothly.",
+  "annotation": "FORCE, OBJECT, SUBSTANCE",
+  "literal": "Oil would make the mechanical gears turn smoothly."
+}
+
+{
+  "original": "Confronted with the grinding cogs of bureaucracy, but needing a new cap, Coltrane shrugged and filled out the form.",
+  "annotation": "FORCE, CONTAINMENT, OBJECT, SUBSTANCE",
+  "literal": "Faced with a complex administrative process, Coltrane completed the necessary paperwork to obtain a new hat."
+}
+
+{
+  "original": "The creation of this board of unelected bureaucrats is yet another tentacle of the Obama Administration digging its way into the doctors-patient relationship.",
+  "annotation": "FORCE, CONTAINMENT, OBJECT, SOURCE_PATH_GOAL",
+  "literal": "The octopus extends its tentacle into the aquarium tank."
+}
+
+{
+    "original": "A good education is a powerful resource.",
+    "annotation": "SUBSTANCE, FORCE, OBJECT",
+    "literal": "A strong hammer is a powerful tool."
+}
+
+{
+  "original": "Like some it is supposed to serve, Massachusetts government has become flabby.",
+  "annotation": "SUBSTANCE, SCALE, OBJECT",
+  "literal": "Like some people it is supposed to serve, the Massachusetts government has become inefficient and oversized."
+}
+
+{
+    "original": "Randy has a plan to turn a bloated government of Washington bureaucrats into a lean and efficient government",
+    "annotation": "SUBSTANCE, SCALE, FORCE, CONTAINMENT",
+    "literal": "Randy has a plan to turn a large, overfilled container into a smaller, more organized container"
+}
+
+{
+  "original": "Tax Revolt: The Rebellion Against an Overbearing, Bloated, Arrogant, and Abusive Government",
+  "annotation": "FORCE, CONTAINMENT, SCALE, OBJECT",
+  "literal": "Citizens protest against excessive taxation and government overreach"
+}
+
+{
+    "original": "Tom Barrett: Put state government on a diet",
+    "annotation": "CONTAINMENT, SUBSTANCE, SCALE",
+    "literal": "Tom Barrett: Reduce the size and expenditure of state government"
+}
+
+{
+  "original": "Our state government, a well oiled machine of efficiency.",
+  "annotation": "OBJECT, SUBSTANCE, PART-WHOLE, FORCE",
+  "literal": "The engine, a well oiled machine of mechanical efficiency."
+}
+
+{
+  "original": "If the injustice is part of the necessary friction of the machine of government, let it go, let it go: perchance it will wear smooth--certainly the machine will wear out. If the injustice has a spring, or a pulley, or a rope, or a crank, exclusively for itself, then perhaps you may consider whether the remedy will not be worse than the evil; but if it is of such a nature that it requires you to be the agent of injustice to another, then I say, break the law. Let your life be a counter-friction to stop the machine. What I have to do is to see, at any rate, that I do not lend myself to the wrong which I condemn.",
+  "annotation": "OBJECT, PART-WHOLE, FORCE, LINK, SOURCE_PATH_GOAL, SUBSTANCE",
+  "literal": "If a component of the mechanical system is causing friction, allow it to continue operating: it may eventually smooth out or the system will eventually stop functioning. If the problematic component has its own dedicated mechanism, consider if fixing it might cause more issues; but if operating the system requires you to directly cause problems for others, then cease operating it. Use your actions to counteract the system's operation. I must ensure I don't participate in actions I believe are wrong."
+}
+
+{
+  "original": "They had elected him (Jackson) to conduct the Government and to keep and remove its moneys, and he meant to do so on the principle that it was a simple machine.",
+  "annotation": "CONTAINMENT, OBJECT, FORCE, SOURCE_PATH_GOAL",
+  "literal": "The manager was hired to operate the factory and control its inventory, and he planned to do so by treating it as a basic system."
+}
+
+{
+  "original": "More especially, the analogy mentioned between institutions and machines must not be interpreted as proposing the theory that institutions are machines—in some essentialist sense.",
+  "annotation": "LINK, CONTAINMENT, OBJECT",
+  "literal": "More specifically, the comparison drawn between organizations and devices should not be understood as suggesting that organizations are literally mechanical devices in their fundamental nature."
+}
+
+{
+  "original": "I would venture to conclude from this that institutions are vehicles of subcultures driven by groups of people with a common destination",
+  "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, OBJECT, FORCE",
+  "literal": "The bus carries passengers to a specific location"
+}
+
+{
+  "original": "May 27, 2011 – The "health" of an institution is measured by the effectiveness of its organization and mission, and also by how well it plans for the future.",
+  "annotation": "SCALE, SUBSTANCE, OBJECT, SOURCE_PATH_GOAL",
+  "literal": "The performance of a company is evaluated by its operational efficiency and goals, as well as its strategic planning."
+}
+
+{
+  "original": "The Crumbling Walls of the Roman Catholic Church",
+  "annotation": "OBJECT, CONTAINMENT, SUPPORT, FORCE",
+  "literal": "The crumbling walls of the ancient stone building"
+}
+
+{
+    "original": "Institutional reform",
+    "annotation": "OBJECT, FORCE, CONTAINMENT",
+    "literal": "Building renovation"
+}
+
+{
+  "original": "It is how, in every Western country, trust in government has suddenly, dramatically collapsed in the crisis' aftermath.",
+  "annotation": "CONTAINMENT, VERTICALITY, FORCE, SCALE",
+  "literal": "The building has suddenly, dramatically collapsed after the earthquake."
+}
+
+{
+    "original": "We are working hard to rebuild the trust of our customers.",
+    "annotation": "OBJECT, FORCE, SOURCE_PATH_GOAL, SUBSTANCE",
+    "literal": "We are working hard to rebuild the structure of our building."
+}
+
+{
+  "original": "The scandals have shaken the foundations of trust in the market.",
+  "annotation": "FORCE, SUPPORT, CONTAINMENT, OBJECT",
+  "literal": "The earthquake has shaken the foundations of the building."
+}
+
+{
+  "original": "Their practices and policies have put them right in the cross hairs and it is only a matter of time before someone pulls the trigger. When that happens, one will be left to wonder whether it is a suicide, a homicide or a mercy killing.",
+  "annotation": "SOURCE_PATH_GOAL, FORCE, CONTAINMENT, OBJECT",
+  "literal": "Their actions have placed them in a vulnerable position, and it's likely they will face consequences soon. When that occurs, it will be unclear who is responsible for the outcome."
+}
+
+{
+    "original": "But as much as the U.S. wants to be close-knit friends with Canada, Canada ... Same can't be said about many other countries in the world that ...",
+    "annotation": "LINK, CONTACT, CONTAINMENT, SCALE",
+    "literal": "The threads are tightly woven together in this fabric, but other materials are not as closely connected."
+}
+
+{
+    "original": "Which country is your country's best friend?",
+    "annotation": "LINK, CONTAINMENT, SCALE",
+    "literal": "Which person is your closest neighbor?"
+}
+
+{
+    "original": "Rising food prices can topple governments",
+    "annotation": "VERTICALITY, FORCE, SOURCE_PATH_GOAL",
+    "literal": "Strong winds can topple trees"
+}
+
+{
+  "original": "Afghanistan's government could collapse after 2014.",
+  "annotation": "SUPPORT, VERTICALITY, SOURCE_PATH_GOAL",
+  "literal": "The old building could collapse after the earthquake."
+}
+
+{
+    "original": "You have to set your jealousy aside.",
+    "annotation": "OBJECT, FORCE, SOURCE_PATH_GOAL, CONTAINMENT",
+    "literal": "You have to put the book on the side table."
+}
+
+{
+  "original": "He hid his love from her.",
+  "annotation": "CONTAINMENT, COVERING, OBJECT",
+  "literal": "He hid the gift box under the blanket."
+}
+
+{
+  "original": "She gave him a push.",
+  "annotation": "FORCE, CONTACT, SOURCE_PATH_GOAL",
+  "literal": "She physically pushed him with her hands."
+}
+
+{
+    "original": "He gave me a vicious kick.",
+    "annotation": "FORCE, CONTACT, SOURCE_PATH_GOAL",
+    "literal": "The player kicked the ball forcefully."
+}
+
+{
+    "original": "A large force is needed to move a heavy object.",
+    "annotation": "FORCE, OBJECT, SOURCE_PATH_GOAL, SCALE",
+    "literal": "A strong push is required to slide a massive boulder."
+}
+
+{
+  "original": "The rebels wrested control of the capital city from the ruling party in a bloody coup.",
+  "annotation": "FORCE, SOURCE_PATH_GOAL, CONTAINMENT, OBJECT",
+  "literal": "The wrestler took the ball from his opponent in a physical match."
+}
+
+{
+  "original": "We need to strengthen our civil liberties.",
+  "annotation": "FORCE, OBJECT, SCALE",
+  "literal": "We need to strengthen the support beams of the building."
+}
+
+{
+  "original": "The government must shore up support for our religious freedoms.",
+  "annotation": "SUPPORT, FORCE, VERTICALITY, SCALE",
+  "literal": "The workers must shore up the foundation of the building."
+}
+
+{
+  "original": "This is what happens when science serves up facts more indigestible than evolution. We end up with a society where the masses live in outright ignorance and denial, while the dominant institutions, thanks to market and political expediency, continually reorganize themselves around actionable intelligence as it comes in.",
+  "annotation": "CONTAINMENT, SUBSTANCE, FORCE, SCALE, CENTER-PERIPHERY, SOURCE_PATH_GOAL",
+  "literal": "This is what happens when a restaurant serves dishes more difficult to eat than a large meal. We end up with a dining room where some guests refuse to eat, while the staff, due to customer preferences, continually rearrange the tables around popular dishes as they are brought out."
+}
+
+{
+  "original": "Food for thought must be appetizing. Chemistry students usually can write acceptable exposition if they know good writing is expected",
+  "annotation": "SUBSTANCE, CONTAINMENT, SCALE",
+  "literal": "Meals for consumption must be tasty. Chemistry students usually can produce clear reports if they understand high-quality documentation is required"
+}
+
+{
+  "original": "They're just half-baked ideas.",
+  "annotation": "SUBSTANCE, CONTAINMENT, SCALE",
+  "literal": "The bread is only partially baked in the oven."
+}
+
+{
+  "original": "Just give me the raw facts.",
+  "annotation": "SUBSTANCE, OBJECT, CONTAINMENT, FORCE",
+  "literal": "Just hand me the unprocessed materials."
+}
+
+{
+  "original": "I need to put this on the back burner for a while.",
+  "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, SCALE, SUPPORT",
+  "literal": "I need to place this pot on the rear stove burner temporarily."
+}
+
+{
+  "original": "I haven't fully digested the main gist of that paper.",
+  "annotation": "CONTAINMENT, SUBSTANCE, OBJECT, PART-WHOLE",
+  "literal": "I haven't fully processed the main contents of that food."
+}
+
+{
+    "original": "He has an appetite for learning.",
+    "annotation": "CONTAINMENT, SUBSTANCE, FORCE",
+    "literal": "He has an appetite for food."
+}
+
+{
+  "original": "He has an insatiable curiosity.",
+  "annotation": "CONTAINMENT, SUBSTANCE, OBJECT",
+  "literal": "The container has an endless supply of water."
+}
+
+{
+  "original": "She's the kind of person you always need to sugar-coat it for to get her to do anything.",
+  "annotation": "COVERING, SUBSTANCE, FORCE",
+  "literal": "The candy is coated with sugar to make it more appealing."
+}
+
+{
+  "original": "Incurable sex offenders, lousy judges and the new media: Moral panic sustenance in the age of new media",
+  "annotation": "CONTAINMENT, SUBSTANCE, SUPPORT, SCALE",
+  "literal": "The jar contains water to sustain plants in the greenhouse"
+}
+
+{
+    "original": "The very thought of it makes me sick.",
+    "annotation": "FORCE, SUBSTANCE, CONTAINMENT",
+    "literal": "The contaminated food makes me physically ill."
+}
+
+{
+  "original": "That's bullshit!",
+  "annotation": "SUBSTANCE, OBJECT",
+  "literal": "That's cow manure!"
+}
+
+{
+  "original": "He salivated with the thought of earning more money.",
+  "annotation": "SUBSTANCE, FORCE, SCALE",
+  "literal": "He salivated while eating spicy food."
+}
+
+{
+  "original": "The robber baron hungered for even greater profits.",
+  "annotation": "FORCE, SUBSTANCE, SCALE",
+  "literal": "The hungry man craved for even more food."
+}
+
+{
+  "original": "You'd need an electron microscope to find the point of this essay.",
+  "annotation": "SCALE, OBJECT, SOURCE_PATH_GOAL",
+  "literal": "You'd need a magnifying glass to find the small object on the table."
+}
+
+{
+    "original": "The theory of relativity gave birth to an enormous number of ideas in physics.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, OBJECT, SPLITTING",
+    "literal": "The tree produced many branches and leaves."
+}
+
+{
+    "original": "He is the father of modern biology.",
+    "annotation": "PART-WHOLE, SOURCE_PATH_GOAL, LINK",
+    "literal": "He is the founder of a new scientific field."
+}
+
+{
+    "original": "Whose brainchild was that?",
+    "annotation": "PART-WHOLE, CONTAINMENT, OBJECT",
+    "literal": "Whose child is that?"
+}
+
+{
+    "original": "Look at what his ideas have spawned.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, CONTAINMENT",
+    "literal": "Look at what the fish eggs have spawned."
+}
+
+{
+    "original": "Those ideas died off in the Middle Ages.",
+    "annotation": "SUBSTANCE, SOURCE_PATH_GOAL, CONTAINMENT",
+    "literal": "Those plants died off in the dry season."
+}
+
+{
+  "original": "His ideas will live on forever.",
+  "annotation": "SUBSTANCE, CONTAINMENT, SCALE",
+  "literal": "The plant will grow indefinitely."
+}
+
+{
+    "original": "Cognitive psychology is still in its infancy.",
+    "annotation": "CONTAINMENT, SCALE, OBJECT",
+    "literal": "The baby is still in its crib."
+}
+
+{
+  "original": "That's an idea that ought to be resurrected.",
+  "annotation": "VERTICALITY, FORCE, OBJECT",
+  "literal": "That's a plant that ought to be revived."
+}
+
+{
+    "original": "He breathed new life into that idea.",
+    "annotation": "CONTAINMENT, FORCE, SUBSTANCE",
+    "literal": "He pumped air into the balloon."
+}
+
+{
+    "original": "I have an idea.",
+    "annotation": "CONTAINMENT, OBJECT, POSSESSION",
+    "literal": "I hold a book."
+}
+
+{
+  "original": "She gave me a good idea.",
+  "annotation": "SOURCE_PATH_GOAL, OBJECT, FORCE",
+  "literal": "She handed me a useful tool."
+}
+

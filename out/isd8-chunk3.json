@@ -1,0 +1,3758 @@
+{
+    "original": "anger build up inside of them",
+    "annotation": "CONTAINMENT, SUBSTANCE, SCALE, FORCE",
+    "literal": "Water builds up inside the tank"
+}
+
+{
+    "original": "pentup anger",
+    "annotation": "CONTAINMENT, FORCE, SUBSTANCE",
+    "literal": "The water is contained in the bottle."
+}
+
+{
+    "original": "explosive anger",
+    "annotation": "FORCE, CONTAINMENT, SUBSTANCE",
+    "literal": "The bomb exploded with great force."
+}
+
+{
+    "original": "volcanic anger",
+    "annotation": "FORCE, SUBSTANCE, CONTAINMENT, SCALE",
+    "literal": "The volcano erupts with intense force."
+}
+
+{
+    "original": "outlet for anger",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, FORCE",
+    "literal": "The pipe is an outlet for water."
+}
+
+{
+    "original": "burst of anger",
+    "annotation": "CONTAINMENT, FORCE, SUBSTANCE",
+    "literal": "burst of water"
+}
+
+{
+    "original": "explosion of anger",
+    "annotation": "FORCE, CONTAINMENT, SUBSTANCE, SPLITTING",
+    "literal": "explosion of dynamite"
+}
+
+{
+    "original": "outburst of anger",
+    "annotation": "CONTAINMENT, FORCE, SUBSTANCE",
+    "literal": "eruption of lava"
+}
+
+{
+    "original": "anger have volcanic eruptions",
+    "annotation": "FORCE, CONTAINMENT, SUBSTANCE, VERTICALITY",
+    "literal": "Volcanoes have explosive eruptions"
+}
+
+{
+    "original": "anger blows up into action",
+    "annotation": "FORCE, SOURCE_PATH_GOAL, CONTAINMENT, SUBSTANCE",
+    "literal": "The balloon expands into a larger size"
+}
+
+{
+    "original": "anger burst out into action",
+    "annotation": "CONTAINMENT, FORCE, SOURCE_PATH_GOAL",
+    "literal": "The water burst out of the pipe."
+}
+
+{
+    "original": "anger erupts into action",
+    "annotation": "CONTAINMENT, FORCE, SOURCE_PATH_GOAL",
+    "literal": "The volcano erupts into lava"
+}
+
+{
+    "original": "anger explode into action",
+    "annotation": "CONTAINMENT, FORCE, SOURCE_PATH_GOAL, SUBSTANCE",
+    "literal": "The bomb exploded into fragments."
+}
+
+{
+    "original": "They erupt with anger",
+    "annotation": "FORCE, CONTAINMENT, SOURCE_PATH_GOAL, SUBSTANCE",
+    "literal": "The volcano erupts with lava"
+}
+
+{
+    "original": "She bursts out with anger",
+    "annotation": "CONTAINMENT, FORCE, SOURCE_PATH_GOAL, SUBSTANCE",
+    "literal": "The balloon bursts out with air"
+}
+
+{
+    "original": "The sight filled her with fear.",
+    "annotation": "CONTAINMENT, SUBSTANCE, FORCE",
+    "literal": "The glass filled with water."
+}
+
+{
+    "original": "fear permeate them",
+    "annotation": "SUBSTANCE, CONTAINMENT, FORCE",
+    "literal": "Water permeates the sponge"
+}
+
+{
+    "original": "fear well up inside",
+    "annotation": "CONTAINMENT, SUBSTANCE, VERTICALITY, FORCE",
+    "literal": "Water wells up inside a container"
+}
+
+{
+    "original": "Sara's heart becomes filled with fear",
+    "annotation": "CONTAINMENT, SUBSTANCE, OBJECT",
+    "literal": "The glass becomes filled with water"
+}
+
+{
+    "original": "John is full of fear",
+    "annotation": "CONTAINMENT, SUBSTANCE",
+    "literal": "The bottle is full of water"
+}
+
+{
+    "original": "Mary contains fear",
+    "annotation": "CONTAINMENT, SUBSTANCE",
+    "literal": "The jar contains water"
+}
+
+{
+    "original": "This truly fills them with fear.",
+    "annotation": "CONTAINMENT, SUBSTANCE, FORCE",
+    "literal": "The glass is filled with water."
+}
+
+{
+    "original": "This situation really puts fear in them.",
+    "annotation": "CONTAINMENT, FORCE, OBJECT, SUBSTANCE",
+    "literal": "This box really puts water in the container."
+}
+
+{
+    "original": "fear filled him",
+    "annotation": "CONTAINMENT, SUBSTANCE, OBJECT",
+    "literal": "Water filled the glass."
+}
+
+{
+    "original": "fear pour out",
+    "annotation": "SUBSTANCE, CONTAINMENT, SOURCE_PATH_GOAL",
+    "literal": "Water pours out of the bottle."
+}
+
+{
+    "original": "pent up fear",
+    "annotation": "CONTAINMENT, FORCE, SUBSTANCE",
+    "literal": "The water is pent up behind the dam."
+}
+
+{
+    "original": "He was overflowing with joy",
+    "annotation": "CONTAINMENT, SUBSTANCE, SCALE",
+    "literal": "The bucket was overflowing with water"
+}
+
+{
+    "original": "heart swell with joy",
+    "annotation": "CONTAINMENT, SUBSTANCE, SCALE, FORCE",
+    "literal": "The balloon swells with air."
+}
+
+{
+    "original": "It swelled his heart with joy",
+    "annotation": "CONTAINMENT, SUBSTANCE, SCALE, FORCE",
+    "literal": "The balloon swelled with air"
+}
+
+{
+    "original": "Joy pour into heart",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, SUBSTANCE",
+    "literal": "Water pours into a container"
+}
+
+{
+    "original": "She brims over with joy",
+    "annotation": "CONTAINMENT, SUBSTANCE, FORCE, SCALE",
+    "literal": "The cup brims over with water"
+}
+
+{
+    "original": "joy seeps from her",
+    "annotation": "SUBSTANCE, SOURCE_PATH_GOAL, CONTAINMENT",
+    "literal": "Water seeps from the rock"
+}
+
+{
+    "original": "overflowing joy",
+    "annotation": "CONTAINMENT, SUBSTANCE, FORCE, SCALE",
+    "literal": "The water is overflowing from the cup."
+}
+
+{
+    "original": "inner joy",
+    "annotation": "CONTAINMENT, SUBSTANCE",
+    "literal": "The box contains a toy."
+}
+
+{
+    "original": "He is filled with joy.",
+    "annotation": "CONTAINMENT, SUBSTANCE",
+    "literal": "The glass is filled with water."
+}
+
+{
+    "original": "It contains joy",
+    "annotation": "CONTAINMENT, SUBSTANCE",
+    "literal": "The box contains toys"
+}
+
+{
+    "original": "He filled her heart with joy",
+    "annotation": "CONTAINMENT, SUBSTANCE, OBJECT",
+    "literal": "He filled the glass with water"
+}
+
+{
+    "original": "He left her empty of joy",
+    "annotation": "CONTAINMENT, SUBSTANCE, SOURCE_PATH_GOAL",
+    "literal": "He emptied the container of water"
+}
+
+{
+    "original": "Anna's heart filled with joy",
+    "annotation": "CONTAINMENT, SUBSTANCE, SCALE",
+    "literal": "The glass filled with water"
+}
+
+{
+    "original": "explosion of joy",
+    "annotation": "FORCE, CONTAINMENT, SUBSTANCE, SPLITTING",
+    "literal": "The balloon burst with air."
+}
+
+{
+    "original": "Tom exploded with joy",
+    "annotation": "CONTAINMENT, FORCE, SPLITTING, SUBSTANCE",
+    "literal": "The balloon exploded with air pressure"
+}
+
+{
+    "original": "joy burst in their heart",
+    "annotation": "CONTAINMENT, FORCE, SUBSTANCE",
+    "literal": "Water burst from the pipe"
+}
+
+{
+    "original": "joy burst through him",
+    "annotation": "CONTAINMENT, FORCE, SOURCE_PATH_GOAL",
+    "literal": "Water burst through the pipe"
+}
+
+{
+    "original": "She erupt in joy",
+    "annotation": "CONTAINMENT, FORCE, SOURCE_PATH_GOAL, SUBSTANCE",
+    "literal": "The volcano erupts with lava"
+}
+
+{
+    "original": "He's bursting with excitement.",
+    "annotation": "CONTAINMENT, FORCE, SUBSTANCE",
+    "literal": "The balloon is bursting with air."
+}
+
+{
+    "original": "That joke is side-splittingly funny.",
+    "annotation": "SPLITTING, FORCE, OBJECT",
+    "literal": "That log is split in half by the axe."
+}
+
+{
+    "original": "I am filled with sorrow.",
+    "annotation": "CONTAINMENT, SUBSTANCE",
+    "literal": "The glass is filled with water."
+}
+
+{
+    "original": "It included sadness",
+    "annotation": "CONTAINMENT, PART-WHOLE",
+    "literal": "The box included a small object"
+}
+
+{
+    "original": "sadness filled his heart",
+    "annotation": "CONTAINMENT, SUBSTANCE, OBJECT",
+    "literal": "Water filled the glass."
+}
+
+{
+    "original": "Her eye filled with sadness",
+    "annotation": "CONTAINMENT, SUBSTANCE, SCALE",
+    "literal": "The glass filled with water"
+}
+
+{
+    "original": "Her (heart/voice) was full of sadness",
+    "annotation": "CONTAINMENT, SUBSTANCE, SCALE",
+    "literal": "The container was full of water"
+}
+
+{
+    "original": "filled up with sadness",
+    "annotation": "CONTAINMENT, SUBSTANCE, SCALE",
+    "literal": "The bottle is filled up with water."
+}
+
+{
+    "original": "be filled with sadness",
+    "annotation": "CONTAINMENT, SUBSTANCE",
+    "literal": "The glass is filled with water."
+}
+
+{
+    "original": "contain/hold sadness",
+    "annotation": "CONTAINMENT, OBJECT, SUBSTANCE",
+    "literal": "The jar contains water."
+}
+
+{
+    "original": "She filled him with sadness",
+    "annotation": "CONTAINMENT, SUBSTANCE, FORCE",
+    "literal": "She filled the glass with water"
+}
+
+{
+    "original": "burst of sadness",
+    "annotation": "CONTAINMENT, FORCE, SUBSTANCE",
+    "literal": "The balloon burst with air."
+}
+
+{
+    "original": "He filled her with disgust",
+    "annotation": "CONTAINMENT, SUBSTANCE, FORCE",
+    "literal": "He filled the glass with water"
+}
+
+{
+    "original": "disgust filled them",
+    "annotation": "CONTAINMENT, SUBSTANCE, FORCE",
+    "literal": "Water filled the container"
+}
+
+{
+    "original": "They were full of disgust",
+    "annotation": "CONTAINMENT, SUBSTANCE",
+    "literal": "The bottle was full of water"
+}
+
+{
+    "original": "His eyes were filled with disgust",
+    "annotation": "CONTAINMENT, SUBSTANCE",
+    "literal": "The glass was filled with water"
+}
+
+{
+    "original": "outlet for disgust",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, FORCE",
+    "literal": "The pipe is an outlet for water."
+}
+
+{
+    "original": "disgust build up among them",
+    "annotation": "SUBSTANCE, SCALE, CONTAINMENT, FORCE",
+    "literal": "Water levels build up in the reservoir"
+}
+
+{
+    "original": "He burst with disgust",
+    "annotation": "CONTAINMENT, FORCE, SUBSTANCE",
+    "literal": "The balloon burst with air pressure"
+}
+
+{
+    "original": "He doesn't have it in him to be polite to his in-laws.",
+    "annotation": "CONTAINMENT, SUBSTANCE, OBJECT",
+    "literal": "The box doesn't have the item inside it."
+}
+
+{
+    "original": "He lacks internal/intestinal fortitude.",
+    "annotation": "CONTAINMENT, SUBSTANCE, FORCE",
+    "literal": "The container lacks sufficient material inside."
+}
+
+{
+    "original": "He has a great capacity for learning.",
+    "annotation": "CONTAINMENT, SCALE, SUBSTANCE",
+    "literal": "The container has a large volume for holding liquid."
+}
+
+{
+    "original": "There is both cotton and polyester in that shirt.",
+    "annotation": "CONTAINMENT, SUBSTANCE, PART-WHOLE",
+    "literal": "There is both water and oil in that bottle."
+}
+
+{
+    "original": "This drink is loaded with vitamins.",
+    "annotation": "CONTAINMENT, SUBSTANCE, FORCE, SCALE",
+    "literal": "This truck is loaded with boxes."
+}
+
+{
+    "original": "Our agenda is packed with events.",
+    "annotation": "CONTAINMENT, SUBSTANCE, OBJECT",
+    "literal": "The bag is packed with clothes."
+}
+
+{
+    "original": "There are seven days in a week.",
+    "annotation": "CONTAINMENT, PART-WHOLE",
+    "literal": "There are seven apples in a basket."
+}
+
+{
+    "original": "The detective couldn't get much information out of the partial shoe print.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, PART-WHOLE",
+    "literal": "The scientist couldn't extract much data from the incomplete sample."
+}
+
+{
+    "original": "Tree rings contain the story of the region.",
+    "annotation": "CONTAINMENT, OBJECT, SUBSTANCE",
+    "literal": "Tree rings contain layers of wood growth."
+}
+
+{
+    "original": "It was years before the fossils yielded any valuable information.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, FORCE",
+    "literal": "It took time before the researchers extracted data from the rock samples."
+}
+
+{
+    "original": "spill the beans",
+    "annotation": "CONTAINMENT, SUBSTANCE, SOURCE_PATH_GOAL",
+    "literal": "The beans spilled out of the jar."
+}
+
+{
+    "original": "let the cat out of the bag",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, OBJECT",
+    "literal": "The cat exited the bag."
+}
+
+{
+    "original": "blow the whistle",
+    "annotation": "FORCE, OBJECT, SOUND",
+    "literal": "The referee blows the whistle to signal a foul."
+}
+
+{
+    "original": "blow the lid off",
+    "annotation": "COVERING, FORCE, CONTAINMENT",
+    "literal": "The explosion blew the lid off the container."
+}
+
+{
+    "original": "loose lips",
+    "annotation": "CONTAINMENT, OBJECT, COVERING",
+    "literal": "The jar has a loose lid."
+}
+
+{
+    "original": "Just yeah, more in the movie than outside the movie.",
+    "annotation": "CONTAINMENT, SCALE",
+    "literal": "There are more people inside the theater than outside the theater."
+}
+
+{
+    "original": "Yes, so you're in the moment, just in the film, I know people talk about switching off and that but it's more than that, you just become involved in that film and what's happening.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, FORCE, LINK",
+    "literal": "Yes, so you're physically inside the cinema, watching the film on the screen, I know people talk about turning off their phones but it's more than that, you just physically interact with the events happening on the screen."
+}
+
+{
+    "original": "you're just enveloped in the film so you're in the moment.",
+    "annotation": "CONTAINMENT, COVERING, SUBSTANCE",
+    "literal": "The swimmer is enveloped in water so they're immersed in the pool."
+}
+
+{
+    "original": "you're just enveloped in the film so you're in the moment.",
+    "annotation": "CONTAINMENT, COVERING, SUBSTANCE",
+    "literal": "The water envelops the swimmer in the pool."
+}
+
+{
+    "original": "the deeper you get into the story the more shocking people's responses are, . . . it's a de- scent, it really does feel like you're descending into something, and then when the story's over yougetsomekindofcomeupforair....Ifeel like I'm sinking deeper into something.",
+    "annotation": "CONTAINMENT, VERTICALITY, SOURCE_PATH_GOAL, SCALE, SUBSTANCE",
+    "literal": "The deeper you dive into the water, the darker it becomes, and when you resurface, you take a breath of air. I feel like I'm sinking deeper into the ocean."
+}
+
+{
+    "original": "stir in the ingredients gradually until all of them has been used.",
+    "annotation": "CONTAINMENT, FORCE, SUBSTANCE, PART-WHOLE, SOURCE_PATH_GOAL",
+    "literal": "Mix the components slowly until the entire mixture is combined."
+}
+
+{
+    "original": "Heat the butter gently and then blend in a little flour.",
+    "annotation": "SUBSTANCE, FORCE, CONTAINMENT, CONTACT",
+    "literal": "Mix the water slowly and then add in a small amount of salt."
+}
+
+{
+    "original": "Badly decayed timber should be cut out and replaced.",
+    "annotation": "PART-WHOLE, SPLITTING, SUBSTANCE, OBJECT",
+    "literal": "Damaged sections of wood should be removed and new pieces inserted."
+}
+
+{
+    "original": "He carefully measured out a pint of whisky.",
+    "annotation": "CONTAINMENT, SUBSTANCE, SCALE",
+    "literal": "He carefully poured water into a measuring cup."
+}
+
+{
+    "original": "Slice the tops off the tomatoes and scoop out the seeds.",
+    "annotation": "SPLITTING, CONTAINMENT, SOURCE_PATH_GOAL, OBJECT",
+    "literal": "Cut the upper parts of the tomatoes and remove the seeds from inside."
+}
+
+{
+    "original": "He sorted out the white laundry from the colored.",
+    "annotation": "SPLITTING, CONTAINMENT, OBJECT",
+    "literal": "He separated the white clothes from the colored clothes in the laundry basket."
+}
+
+{
+    "original": "The new college building does not merge in with the old buildings around.",
+    "annotation": "CONTAINMENT, PART-WHOLE, CONTACT, OBJECT",
+    "literal": "The new puzzle piece does not fit in with the surrounding pieces."
+}
+
+{
+    "original": "Saturday and Sunday seemed to merge into each other.",
+    "annotation": "LINK, CONTAINMENT, SUBSTANCE, PART-WHOLE",
+    "literal": "The two water droplets merged into one larger droplet."
+}
+
+{
+    "original": "The teacher singled him out for particular praise.",
+    "annotation": "SPLITTING, CENTER-PERIPHERY, FORCE",
+    "literal": "The teacher separated one student from the group for a specific reason."
+}
+
+{
+    "original": "why do you cross out the last line of your letter?",
+    "annotation": "COVERING, OBJECT, PART-WHOLE",
+    "literal": "Why do you draw a line over the final sentence on the paper?"
+}
+
+{
+    "original": "We must separate out facts from speculation.",
+    "annotation": "SPLITTING, CONTAINMENT, SUBSTANCE",
+    "literal": "We must separate oil from water in the mixture."
+}
+
+{
+    "original": "The skirt is too big. Please take it in.",
+    "annotation": "CONTAINMENT, SCALE, FORCE",
+    "literal": "The fabric is too large. Please reduce its size."
+}
+
+{
+    "original": "Part of the roof has caved in.",
+    "annotation": "PART-WHOLE, CONTAINMENT, VERTICALITY, FORCE",
+    "literal": "A section of the ceiling has collapsed downward."
+}
+
+{
+    "original": "Now the police were closing in.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, FORCE",
+    "literal": "Now the walls were closing in on the room."
+}
+
+{
+    "original": "I'll bash your silly head in.",
+    "annotation": "FORCE, CONTACT, CONTAINMENT",
+    "literal": "I'll hit the ball with the bat."
+}
+
+{
+    "original": "The wind bellied out the sails.",
+    "annotation": "FORCE, CONTAINMENT, OBJECT, SUBSTANCE",
+    "literal": "The air inflated the balloon."
+}
+
+{
+    "original": "The road broadened out after this bend.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, OBJECT",
+    "literal": "The river widened after the curve in its course."
+}
+
+{
+    "original": "He stretched out in front of the fire and fell asleep.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, VERTICALITY, CONTACT",
+    "literal": "He extended his body horizontally on the floor near the fireplace and became unconscious."
+}
+
+{
+    "original": "The troops fanned out as they advanced.",
+    "annotation": "SOURCE_PATH_GOAL, SPLITTING, FORCE",
+    "literal": "The water fanned out as it flowed downstream."
+}
+
+{
+    "original": "The search party spread out over the moor.",
+    "annotation": "SPLITTING, SOURCE_PATH_GOAL, COVERING",
+    "literal": "The water spread out over the floor."
+}
+
+{
+    "original": "I more or less caved in, though I still defended my explanations.",
+    "annotation": "FORCE, CONTAINMENT, SUPPORT, VERTICALITY",
+    "literal": "The roof of the cave collapsed, though the walls remained standing."
+}
+
+{
+    "original": "He has to give in.",
+    "annotation": "FORCE, CONTAINMENT, SOURCE_PATH_GOAL",
+    "literal": "He has to enter the room."
+}
+
+{
+    "original": "Those are the main points I'll be talking about. Now I'll flesh them out for you.",
+    "annotation": "CENTER-PERIPHERY, PART-WHOLE, SUBSTANCE, CONTAINMENT",
+    "literal": "These are the key topics I'll discuss. Now I'll provide more details about each one."
+}
+
+{
+    "original": "The wildfire of revolution rapidly spread throughout the land.",
+    "annotation": "SOURCE_PATH_GOAL, SUBSTANCE, FORCE, COVERING",
+    "literal": "The forest fire rapidly spread across the landscape."
+}
+
+{
+    "original": "Why don't you join in and have some fun?",
+    "annotation": "CONTAINMENT, LINK, FORCE, SUBSTANCE",
+    "literal": "Why don't you enter the room and play with the toys?"
+}
+
+{
+    "original": "The police were called in to investigate the robbery.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, FORCE",
+    "literal": "The detectives entered the building to examine the crime scene."
+}
+
+{
+    "original": "The company has decided to pull out of the project.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, FORCE",
+    "literal": "The person has decided to remove the plug from the socket."
+}
+
+{
+    "original": "He didn't want to look as if he was chickening out.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, CONTAINMENT",
+    "literal": "He didn't want to appear as if he was leaving the group."
+}
+
+{
+    "original": "A deal is a deal. You can't back out now.",
+    "annotation": "CONTAINMENT, LINK, FORCE, SOURCE_PATH_GOAL",
+    "literal": "A contract is signed. You can't exit the room now."
+}
+
+{
+    "original": "Such behavior might result in the executive being asked to leave.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, CONTAINMENT",
+    "literal": "The ball's trajectory might result in it exiting the field."
+}
+
+{
+    "original": "He believes in individual liberty.",
+    "annotation": "CONTAINMENT, SUPPORT, OBJECT",
+    "literal": "He stands on solid ground."
+}
+
+{
+    "original": "This room will be changed into a kitchen.",
+    "annotation": "CONTAINMENT, SUBSTANCE, OBJECT, FORCE",
+    "literal": "This clay will be shaped into a bowl."
+}
+
+{
+    "original": "I talked him into accepting the job.",
+    "annotation": "CONTAINMENT, FORCE, SOURCE_PATH_GOAL",
+    "literal": "I pushed the ball into the box."
+}
+
+{
+    "original": "The lamp gives out dim lights.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, SUBSTANCE",
+    "literal": "The lamp emits low-intensity light."
+}
+
+{
+    "original": "The bells rang out.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, SUBSTANCE",
+    "literal": "The sound waves traveled from the bells."
+}
+
+{
+    "original": "Each of the eggs hatches out into a tiny grub.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, SPLITTING",
+    "literal": "Each of the boxes opens to reveal a small toy."
+}
+
+{
+    "original": "I don't go in for that sort of fishing.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL",
+    "literal": "I don't enter that area for fishing."
+}
+
+{
+    "original": "Frank told himself not to be taken in by superficial appearances.",
+    "annotation": "CONTAINMENT, FORCE, COVERING",
+    "literal": "Frank avoided entering a deceptive building."
+}
+
+{
+    "original": "I don't like the book when I started it, but the strange story soon draw me in.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, FORCE",
+    "literal": "I don't like the room when I entered it, but the interesting objects soon pulled me inside."
+}
+
+{
+    "original": "I had no idea what I was going to write about when I started out.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, OBJECT",
+    "literal": "I had no items in my bag when I left the house."
+}
+
+{
+    "original": "They succeeded in what they had set out to do.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "They reached the destination they had planned to travel to."
+}
+
+{
+    "original": "The woods have burnt out.",
+    "annotation": "SUBSTANCE, CONTAINMENT, FORCE",
+    "literal": "The candle has burnt out."
+}
+
+{
+    "original": "I spent three days cleaning our flat out.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, SUBSTANCE, SCALE",
+    "literal": "I used three days to remove dirt from our apartment."
+}
+
+{
+    "original": "Comprehensive schools assisted in flattening out all regional accents.",
+    "annotation": "FORCE, SCALE, VERTICALITY, SUBSTANCE",
+    "literal": "The rolling pin flattened the dough on the countertop."
+}
+
+{
+    "original": "Increased productivity and generous staffing could be said to cancel each other out.",
+    "annotation": "FORCE, SCALE, OBJECT",
+    "literal": "The opposing forces of two magnets cancel each other out."
+}
+
+{
+    "original": "I thought most of the problems were ironed out.",
+    "annotation": "FORCE, COVERING, OBJECT",
+    "literal": "I smoothed out the wrinkles in the shirt with an iron."
+}
+
+{
+    "original": "The lights went out.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, CONTAINMENT",
+    "literal": "The person exited the room."
+}
+
+{
+    "original": "We turned out the lights.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "We switched off the lamps."
+}
+
+{
+    "original": "They put/beat out the fire.",
+    "annotation": "FORCE, CONTAINMENT, SOURCE_PATH_GOAL",
+    "literal": "They extinguished the flames with water."
+}
+
+{
+    "original": "Someone opened the door and the candle blew out.",
+    "annotation": "FORCE, CONTAINMENT, SOURCE_PATH_GOAL",
+    "literal": "Someone pushed the door and the wind extinguished the flame."
+}
+
+{
+    "original": "The proposals were hedged in with legal niceties.",
+    "annotation": "CONTAINMENT, COVERING, OBJECT",
+    "literal": "The garden was fenced in with wooden panels."
+}
+
+{
+    "original": "You have to contract in if you want to participate in the scheme.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, FORCE",
+    "literal": "You have to enter the room if you want to join the meeting."
+}
+
+{
+    "original": "He felt hemmed in by convention.",
+    "annotation": "CONTAINMENT, FORCE, COVERING",
+    "literal": "The fabric was hemmed in by stitches."
+}
+
+{
+    "original": "He cannot hold in his anger.",
+    "annotation": "CONTAINMENT, FORCE, SUBSTANCE",
+    "literal": "He cannot hold water in his hands."
+}
+
+{
+    "original": "The war broke out.",
+    "annotation": "CONTAINMENT, FORCE, SPLITTING",
+    "literal": "The water burst from the pipe."
+}
+
+{
+    "original": "He burst out laughing.",
+    "annotation": "CONTAINMENT, FORCE, SOURCE_PATH_GOAL",
+    "literal": "The balloon burst, releasing air."
+}
+
+{
+    "original": "Thicker fabrics and darker colors came in.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, SUBSTANCE, SCALE",
+    "literal": "The delivery truck arrived with new materials."
+}
+
+{
+    "original": "Labor governments come in promising to expand public expenditure.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, SCALE",
+    "literal": "New employees enter the office promising to increase their work hours."
+}
+
+{
+    "original": "All the facts came out after Sherry's death.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, FORCE",
+    "literal": "All the items came out of the box after it was opened."
+}
+
+{
+    "original": "His new book will come out next month.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, OBJECT",
+    "literal": "The package will be delivered next month."
+}
+
+{
+    "original": "She became trapped as the tide came in.",
+    "annotation": "CONTAINMENT, FORCE, SOURCE_PATH_GOAL",
+    "literal": "The fish became trapped in the net as it was pulled in."
+}
+
+{
+    "original": "The tide has gone out.",
+    "annotation": "SOURCE_PATH_GOAL, VERTICALITY, SUBSTANCE",
+    "literal": "The water level has decreased at the shore."
+}
+
+{
+    "original": "The cold weather set in.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, FORCE",
+    "literal": "The water filled the container."
+}
+
+{
+    "original": "The use of the lead-free petrol is now being phased in.",
+    "annotation": "SOURCE_PATH_GOAL, SUBSTANCE, CONTAINMENT",
+    "literal": "The new product is gradually being introduced to the market."
+}
+
+{
+    "original": "After the introduction, we'll fade in the first scene.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, CONTAINMENT",
+    "literal": "After the curtain rises, we'll gradually illuminate the stage."
+}
+
+{
+    "original": "Traditional grocer's shops are fast dying out.",
+    "annotation": "SOURCE_PATH_GOAL, SUBSTANCE, SCALE",
+    "literal": "Traditional grocer's shops are rapidly decreasing in number."
+}
+
+{
+    "original": "The sound of the chopper has faded out.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, SUBSTANCE",
+    "literal": "The light from the lamp has dimmed gradually."
+}
+
+{
+    "original": "He has been hiding out in a provincial village.",
+    "annotation": "CONTAINMENT, COVERING",
+    "literal": "The cat is hiding inside a cardboard box."
+}
+
+{
+    "original": "Mask out his voice with white noise.",
+    "annotation": "COVERING, SUBSTANCE, FORCE",
+    "literal": "Cover the object with a cloth."
+}
+
+{
+    "original": "The noise from the plane drowned out the noise of the gun.",
+    "annotation": "FORCE, COVERING, SUBSTANCE",
+    "literal": "The water from the flood submerged the entire village."
+}
+
+{
+    "original": "My head thumped solidly on a rock and I passed out.",
+    "annotation": "CONTACT, FORCE, OBJECT, SOURCE_PATH_GOAL",
+    "literal": "The hammer thumped solidly on the nail and it went into the wood."
+}
+
+{
+    "original": "The tablet knocked her out for four solid hours.",
+    "annotation": "FORCE, SOURCE_PATH_GOAL, SUBSTANCE, SCALE",
+    "literal": "The sedative caused her to sleep deeply for four hours."
+}
+
+{
+    "original": "The plane dived suddenly, causing the pilot to black out.",
+    "annotation": "SOURCE_PATH_GOAL, VERTICALITY, FORCE, CONTAINMENT",
+    "literal": "The bird dived suddenly, causing its prey to fall."
+}
+
+{
+    "original": "The information has been leaked out.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, SUBSTANCE",
+    "literal": "The water has flowed out of the pipe."
+}
+
+{
+    "original": "The singer has brought out a second album.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, OBJECT",
+    "literal": "The worker has carried out a second box."
+}
+
+{
+    "original": "They managed to work out a solution to the problem.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "They physically extracted an object from a complex mechanism."
+}
+
+{
+    "original": "She was able to reason out many of the passages and their meanings.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, OBJECT, SPLITTING",
+    "literal": "She was able to extract many items from the box and identify them."
+}
+
+{
+    "original": "They need to interview some people and find out whether they like their jobs.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, OBJECT",
+    "literal": "They need to examine some objects and determine their physical properties."
+}
+
+{
+    "original": "The river sliced through sediments, carving out the gorge.",
+    "annotation": "SPLITTING, FORCE, SOURCE_PATH_GOAL, OBJECT",
+    "literal": "The knife cut through the bread, creating two halves."
+}
+
+{
+    "original": "The first experiments were carried out by Dr. Preston.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "The heavy boxes were carried out of the laboratory by Dr. Preston."
+}
+
+{
+    "original": "The factory turns out 5000 cars every month.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, OBJECT, SCALE",
+    "literal": "The machine produces 5000 items every cycle."
+}
+
+{
+    "original": "The president promised to look into the matter.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, OBJECT",
+    "literal": "The inspector looked inside the box."
+}
+
+{
+    "original": "When he got back to Berlin he would inquire into the whole business.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, PART-WHOLE",
+    "literal": "When he returned to the office, he would investigate the entire project."
+}
+
+{
+    "original": "...trapping so many people in state dependency robs them of their human dignity.",
+    "annotation": "CONTAINMENT, FORCE, SUBSTANCE, OBJECT",
+    "literal": "The cage traps the animals, preventing their free movement."
+}
+
+{
+    "original": "[T]he federal government's welfare assistance programs intended to help those in need instead effectively trap people into dependence",
+    "annotation": "CONTAINMENT, FORCE, SOURCE_PATH_GOAL",
+    "literal": "The cage traps the animal inside, preventing its escape."
+}
+
+{
+    "original": "We pitched them the idea and they ate it right up.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, FORCE, OBJECT",
+    "literal": "We threw them the ball and they caught it quickly."
+}
+
+{
+    "original": "He's been feeding her lies all these years.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, SUBSTANCE, FORCE",
+    "literal": "He's been giving her food every day for years."
+}
+
+{
+    "original": "This article is hard to digest.",
+    "annotation": "SUBSTANCE, CONTAINMENT, FORCE",
+    "literal": "This food is hard to digest."
+}
+
+{
+    "original": "I've been feeding him stock market tips for weeks.",
+    "annotation": "SUBSTANCE, SOURCE_PATH_GOAL, CONTAINMENT, FORCE",
+    "literal": "I've been giving him food regularly for weeks."
+}
+
+{
+    "original": "This SUV sure is a gas guzzler.",
+    "annotation": "CONTAINMENT, SUBSTANCE, OBJECT",
+    "literal": "This machine consumes a large amount of fuel."
+}
+
+{
+    "original": "Demand for paper goods is eating away at our planet's forests.",
+    "annotation": "SUBSTANCE, FORCE, SOURCE_PATH_GOAL, PART-WHOLE",
+    "literal": "Insects are consuming the leaves of trees in the forest."
+}
+
+{
+    "original": "Developing nations are gobbling up our fossil fuels at any alarming rate.",
+    "annotation": "CONTAINMENT, SUBSTANCE, FORCE, SCALE",
+    "literal": "Developing nations are consuming our fossil fuels at a rapidly increasing rate."
+}
+
+{
+    "original": "The United States' insatiable appetite for electronics will entirely consume our supply of rare metals.",
+    "annotation": "SUBSTANCE, CONTAINMENT, FORCE, SCALE",
+    "literal": "The factory's high demand for raw materials will deplete our inventory of rare metals."
+}
+
+{
+    "original": "We have not found a way to stem this rising flood of gun violence.",
+    "annotation": "FORCE, CONTAINMENT, VERTICALITY, SOURCE_PATH_GOAL",
+    "literal": "We have not found a way to block this increasing flow of water."
+}
+
+{
+    "original": "We are drowning in an ocean of gun violence.",
+    "annotation": "CONTAINMENT, SUBSTANCE, FORCE, SCALE",
+    "literal": "We are submerged in deep water."
+}
+
+{
+    "original": "Lost in the bureaucratic maze of city's criminal justice system",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, OBJECT",
+    "literal": "Lost in the complex building of the city's courthouse"
+}
+
+{
+    "original": "We need to protect our rights from infringement.",
+    "annotation": "COVERING, CONTAINMENT, FORCE, OBJECT",
+    "literal": "We need to protect our valuables from theft."
+}
+
+{
+    "original": "The government overstepped a line when they proposed wiretapping citizens' phone lines.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, LINK, CONTACT",
+    "literal": "The hiker stepped over a fallen tree trunk on the trail."
+}
+
+{
+    "original": "Gay marriage is encroaching on our religious freedoms.",
+    "annotation": "FORCE, CONTAINMENT, SOURCE_PATH_GOAL",
+    "literal": "The floodwater is encroaching on the dry land."
+}
+
+{
+    "original": "These gay marriage laws have invaded our religious rights.",
+    "annotation": "CONTAINMENT, FORCE, OBJECT, SOURCE_PATH_GOAL",
+    "literal": "The army has invaded the neighboring country."
+}
+
+{
+    "original": "The government needs to stay out of my bedroom.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, OBJECT",
+    "literal": "The neighbor needs to stay out of my house."
+}
+
+{
+    "original": "The poor deserve a hand up, not a handout.",
+    "annotation": "VERTICALITY, FORCE, SUPPORT, LINK",
+    "literal": "The climber needs a rope up, not a rope down."
+}
+
+{
+    "original": "The government shouldn't just give handouts, it needs to encourage people to get jobs instead.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, SUPPORT, CONTAINMENT",
+    "literal": "The teacher shouldn't just give answers, she needs to guide students to find solutions instead."
+}
+
+{
+    "original": "We covered a lot of ground.",
+    "annotation": "COVERING, SOURCE_PATH_GOAL, SCALE",
+    "literal": "We walked across a large area of land."
+}
+
+{
+    "original": "He's on our trail.",
+    "annotation": "SOURCE_PATH_GOAL, CONTACT, LINK",
+    "literal": "The hiker is walking on the forest trail."
+}
+
+{
+    "original": "He strayed off the trail.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, SPLITTING",
+    "literal": "He walked away from the marked path."
+}
+
+{
+    "original": "We went back over the same trail.",
+    "annotation": "SOURCE_PATH_GOAL, CONTACT, OBJECT",
+    "literal": "We walked along the same physical path again."
+}
+
+{
+    "original": "We have already covered those points.",
+    "annotation": "COVERING, OBJECT, CONTAINMENT",
+    "literal": "We have already placed blankets over those rocks."
+}
+
+{
+    "original": "We have covered a lot of ground in our argument.",
+    "annotation": "COVERING, SOURCE_PATH_GOAL, SUBSTANCE, SCALE",
+    "literal": "We have walked across a large area of land."
+}
+
+{
+    "original": "Let's go back over the argument again.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, COVERING",
+    "literal": "Let's walk back over the bridge again."
+}
+
+{
+    "original": "You're getting off the subject.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, OBJECT",
+    "literal": "You're stepping off the path."
+}
+
+{
+    "original": "You're really onto something there.",
+    "annotation": "CONTACT, SUPPORT, SOURCE_PATH_GOAL",
+    "literal": "The book is on top of the table."
+}
+
+{
+    "original": "We're well on our way to solving this problem.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, OBJECT",
+    "literal": "We're halfway down the road to the destination."
+}
+
+{
+    "original": "The theory was expanded to cover more data.",
+    "annotation": "COVERING, CONTAINMENT, SCALE, SUBSTANCE",
+    "literal": "The blanket was stretched to cover more of the bed."
+}
+
+{
+    "original": "That theory covers a lot of territory.",
+    "annotation": "COVERING, CONTAINMENT, SCALE",
+    "literal": "The blanket covers a large area of the bed."
+}
+
+{
+    "original": "The theory filled in gaps left in earlier accounts.",
+    "annotation": "CONTAINMENT, SUBSTANCE, OBJECT",
+    "literal": "The cement filled in cracks left in the old wall."
+}
+
+{
+    "original": "The theory fit the data closely.",
+    "annotation": "CONTAINMENT, CONTACT, COVERING",
+    "literal": "The glove fit the hand closely."
+}
+
+{
+    "original": "The theory doesn't fit with the facts.",
+    "annotation": "CONTAINMENT, CONTACT, OBJECT",
+    "literal": "The puzzle piece doesn't fit into the jigsaw."
+}
+
+{
+    "original": "There was a hole in theory (it fails to cover all the facts)",
+    "annotation": "COVERING, CONTAINMENT, OBJECT",
+    "literal": "There was a hole in the roof (it fails to cover the entire attic)"
+}
+
+{
+    "original": "The theory is closely tied to the facts.",
+    "annotation": "LINK, CONTACT, FORCE",
+    "literal": "The rope is tightly tied to the post."
+}
+
+{
+    "original": "The crisis stripped away our veneer of sophistication.",
+    "annotation": "COVERING, FORCE, SUBSTANCE",
+    "literal": "The sandpaper stripped away the paint from the wood surface."
+}
+
+{
+    "original": "We donned an appearance of nonchallance.",
+    "annotation": "COVERING, OBJECT, CONTAINMENT",
+    "literal": "We put on a coat."
+}
+
+{
+    "original": "Put on a happy face.",
+    "annotation": "COVERING, OBJECT, VERTICALITY",
+    "literal": "Put on a mask."
+}
+
+{
+    "original": "Under cover of darkness.",
+    "annotation": "COVERING, CONTAINMENT, SUBSTANCE",
+    "literal": "Under the blanket in the dark room."
+}
+
+{
+    "original": "He was enveloped in darkness.",
+    "annotation": "CONTAINMENT, COVERING, SUBSTANCE",
+    "literal": "He was wrapped in a blanket."
+}
+
+{
+    "original": "Darkness closed in over us.",
+    "annotation": "CONTAINMENT, COVERING, FORCE, SOURCE_PATH_GOAL",
+    "literal": "The blanket covered us completely."
+}
+
+{
+    "original": "It's what's on the inside that counts.",
+    "annotation": "CONTAINMENT, CENTER-PERIPHERY, SCALE",
+    "literal": "The contents of the box determine its value."
+}
+
+{
+    "original": "She only has surface charm.",
+    "annotation": "COVERING, SUBSTANCE, CONTAINMENT",
+    "literal": "The table only has a surface coating."
+}
+
+{
+    "original": "Let's strip away all the unimportant details.",
+    "annotation": "COVERING, SUBSTANCE, CONTAINMENT, SPLITTING",
+    "literal": "Let's remove the outer layer of paint from the wall."
+}
+
+{
+    "original": "What is central here?",
+    "annotation": "CENTER-PERIPHERY, CONTAINMENT",
+    "literal": "What is in the middle of this room?"
+}
+
+{
+    "original": "That's just a peripheral issue.",
+    "annotation": "CENTER-PERIPHERY, OBJECT",
+    "literal": "That's just a tree at the edge of the forest."
+}
+
+{
+    "original": "This is the core of the matter.",
+    "annotation": "CENTER-PERIPHERY, CONTAINMENT, PART-WHOLE",
+    "literal": "This is the center of the circle."
+}
+
+{
+    "original": "The issue is central to these negotiations.",
+    "annotation": "CENTER-PERIPHERY, CONTAINMENT",
+    "literal": "The statue is central to the town square."
+}
+
+{
+    "original": "Put aside for a moment the fact that the man has been in prison.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, OBJECT",
+    "literal": "Move the book to the side of the desk for a moment."
+}
+
+{
+    "original": "He's had to put away all ideas of becoming a concert pianist.",
+    "annotation": "CONTAINMENT, OBJECT, SOURCE_PATH_GOAL",
+    "literal": "He's had to put away all his books in the shelf."
+}
+
+{
+    "original": "She put the idea to the back of her mind.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, OBJECT, PART-WHOLE",
+    "literal": "She placed the book at the back of the shelf."
+}
+
+{
+    "original": "I had simply shelved this awkward problem.",
+    "annotation": "CONTAINMENT, SUPPORT, OBJECT",
+    "literal": "I had simply placed this heavy book on the shelf."
+}
+
+{
+    "original": "These crucial issues tend to get pushed aside and forgotten.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, CONTAINMENT, OBJECT",
+    "literal": "The boxes tend to get pushed to the corner of the room and left there."
+}
+
+{
+    "original": "She brushed the thought away.",
+    "annotation": "FORCE, SOURCE_PATH_GOAL, CONTACT, OBJECT",
+    "literal": "She brushed the crumbs away from the table."
+}
+
+{
+    "original": "The animal rights movement threatens the very core of what the Public Health Service is all about.",
+    "annotation": "FORCE, CENTER-PERIPHERY, CONTAINMENT",
+    "literal": "The flood threatens the foundation of the building."
+}
+
+{
+    "original": "It is unlike East London, where over the last ten or twenty years the heart has been torn out of manufacturing industry in the docks and with it has gone traditional working-class organisation.",
+    "annotation": "CONTAINMENT, PART-WHOLE, FORCE, SOURCE_PATH_GOAL, OBJECT",
+    "literal": "Over the last ten or twenty years, many manufacturing businesses in East London's docks have closed, and as a result, traditional working-class organizations have disappeared."
+}
+
+{
+    "original": "Love for his son has kept him going amidst the grief.",
+    "annotation": "FORCE, SOURCE_PATH_GOAL, CONTAINMENT, SUBSTANCE",
+    "literal": "The engine has kept the car moving through the storm."
+}
+
+{
+    "original": "In the midst of the nation's grief.",
+    "annotation": "CONTAINMENT, CENTER-PERIPHERY, SUBSTANCE",
+    "literal": "In the center of the crowded room."
+}
+
+{
+    "original": "The Muslim tradition spoke to her again at a time of distress in her life, after the death of her mother.'I was in the midst of a personal crisis, along with my mom's death,<...>.'",
+    "annotation": "CONTAINMENT, FORCE, SOURCE_PATH_GOAL, LINK",
+    "literal": "The person found comfort in religious practices during a difficult period following her mother's passing. 'I was experiencing personal challenges while also dealing with my mother's death,<...>.'"
+}
+
+{
+    "original": "Emigration has threatened to unravel the fabric of this small society.",
+    "annotation": "SPLITTING, PART-WHOLE, SUBSTANCE, FORCE",
+    "literal": "The thread has started to unravel the fabric of this small garment."
+}
+
+{
+    "original": "The chairman has managed to weave together quite a coalition",
+    "annotation": "LINK, PART-WHOLE, FORCE, OBJECT",
+    "literal": "The weaver has managed to weave together quite a fabric"
+}
+
+{
+    "original": "His mother's death hit him hard.",
+    "annotation": "FORCE, CONTACT, OBJECT",
+    "literal": "The hammer hit the nail hard."
+}
+
+{
+    "original": "That idea bowled me over.",
+    "annotation": "CONTACT, SOURCE_PATH_GOAL, FORCE",
+    "literal": "The bowling ball knocked down all the pins."
+}
+
+{
+    "original": "She's a knockout.",
+    "annotation": "FORCE, CONTACT, OBJECT",
+    "literal": "The boxer delivered a knockout punch."
+}
+
+{
+    "original": "I was struck by his sincerity.",
+    "annotation": "FORCE, CONTACT, SOURCE_PATH_GOAL",
+    "literal": "I was struck by the baseball."
+}
+
+{
+    "original": "That really made an impression on me.",
+    "annotation": "CONTACT, FORCE, SUBSTANCE",
+    "literal": "The stamp made an impression on the paper."
+}
+
+{
+    "original": "He made his mark on the world.",
+    "annotation": "CONTACT, FORCE, OBJECT, SCALE",
+    "literal": "He drew a line on the map."
+}
+
+{
+    "original": "I was touched by his remark.",
+    "annotation": "CONTACT, FORCE, OBJECT",
+    "literal": "The cup touches the table."
+}
+
+{
+    "original": "That blew me away.",
+    "annotation": "FORCE, SOURCE_PATH_GOAL, CONTACT",
+    "literal": "The strong wind blew the leaves away."
+}
+
+{
+    "original": "We talk and talk, but I can't seem to reach him.",
+    "annotation": "SOURCE_PATH_GOAL, LINK, CONTACT, FORCE",
+    "literal": "I walk and walk, but I can't seem to touch him."
+}
+
+{
+    "original": "We connect.",
+    "annotation": "LINK, FORCE, CONTACT, SOURCE_PATH_GOAL",
+    "literal": "The two wires connect."
+}
+
+{
+    "original": "We talk and talk, but I can't seem to reach him.",
+    "annotation": "SOURCE_PATH_GOAL, LINK, CONTACT, FORCE",
+    "literal": "I walk and walk, but I can't seem to touch him."
+}
+
+{
+    "original": "He got to her.",
+    "annotation": "SOURCE_PATH_GOAL, CONTACT, FORCE",
+    "literal": "He walked to her location."
+}
+
+{
+    "original": "I think I'm making contact with him.",
+    "annotation": "CONTACT, LINK, SOURCE_PATH_GOAL",
+    "literal": "My hand is touching his shoulder."
+}
+
+{
+    "original": "I'm touched.",
+    "annotation": "CONTACT, FORCE, OBJECT",
+    "literal": "The fabric is touched by my hand."
+}
+
+{
+    "original": "He touched her with the expensive gift.",
+    "annotation": "CONTACT, FORCE, OBJECT, LINK",
+    "literal": "He handed her the expensive gift."
+}
+
+{
+    "original": "He tickles her pink with his remarks.",
+    "annotation": "CONTACT, FORCE, SUBSTANCE, SCALE",
+    "literal": "He touches her skin with his fingers."
+}
+
+{
+    "original": "He makes my skin crawl.",
+    "annotation": "FORCE, CONTACT, SOURCE_PATH_GOAL",
+    "literal": "The insect crawls on my skin."
+}
+
+{
+    "original": "He rubs her the wrong way.",
+    "annotation": "CONTACT, FORCE, SOURCE_PATH_GOAL",
+    "literal": "He strokes the cat's fur in the opposite direction."
+}
+
+{
+    "original": "Her T-shirt said Handle with Care",
+    "annotation": "COVERING, CONTAINMENT, OBJECT, FORCE",
+    "literal": "The package was labeled Handle with Care"
+}
+
+{
+    "original": "He doesn't know how to handle her.",
+    "annotation": "FORCE, OBJECT, CONTACT",
+    "literal": "He doesn't know how to hold the fragile vase."
+}
+
+{
+    "original": "He has to be handled with kid gloves",
+    "annotation": "CONTACT, COVERING, FORCE",
+    "literal": "The fragile object has to be handled with protective gloves"
+}
+
+{
+    "original": "He doesn't feel anything so you really have to shake him.",
+    "annotation": "FORCE, CONTACT, OBJECT",
+    "literal": "The tree doesn't move so you really have to shake it."
+}
+
+{
+    "original": "His comment hit Joe right where it hurts.",
+    "annotation": "CONTACT, FORCE, SOURCE_PATH_GOAL, OBJECT",
+    "literal": "The ball hit Joe's arm with force."
+}
+
+{
+    "original": "He wraps himself in armor.",
+    "annotation": "COVERING, CONTAINMENT, OBJECT",
+    "literal": "He wraps the gift in paper."
+}
+
+{
+    "original": "He shields himself from any experiences.",
+    "annotation": "COVERING, FORCE, CONTAINMENT",
+    "literal": "He holds an umbrella to protect himself from the rain."
+}
+
+{
+    "original": "He won't let anyone get near him.",
+    "annotation": "CONTAINMENT, CENTER-PERIPHERY, FORCE",
+    "literal": "The guard won't allow visitors to approach the restricted area."
+}
+
+{
+    "original": "He's out of touch with everyone.",
+    "annotation": "CONTACT, LINK, CONTAINMENT",
+    "literal": "He's not physically touching anyone."
+}
+
+{
+    "original": "She's in touch with him.",
+    "annotation": "CONTACT, LINK, CONTAINMENT",
+    "literal": "She's physically touching his hand."
+}
+
+{
+    "original": "I can't reach him by telephone.",
+    "annotation": "LINK, SOURCE_PATH_GOAL, CONTACT",
+    "literal": "I can't touch the top shelf with my hand."
+}
+
+{
+    "original": "We've been out of contact for years.",
+    "annotation": "LINK, CONTAINMENT, SOURCE_PATH_GOAL, SCALE",
+    "literal": "The phone has been disconnected for days."
+}
+
+{
+    "original": "In the weeks ahead of us …",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, OBJECT",
+    "literal": "In the road ahead of us ..."
+}
+
+{
+    "original": "That's all behind us now.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, CONTAINMENT",
+    "literal": "The car is behind us on the road."
+}
+
+{
+    "original": "That's all behind us now.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, CONTAINMENT",
+    "literal": "The car is behind us on the road."
+}
+
+{
+    "original": "Let's put that in back of us.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, OBJECT",
+    "literal": "Let's place that object behind our physical bodies."
+}
+
+{
+    "original": "We're looking ahead to the future.",
+    "annotation": "SOURCE_PATH_GOAL, VERTICALITY, OBJECT",
+    "literal": "We're looking ahead to the road."
+}
+
+{
+    "original": "He has a great future in front of him.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, CONTAINMENT, SCALE",
+    "literal": "He has a large building in front of him."
+}
+
+{
+    "original": "In the following weeks …",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, SCALE",
+    "literal": "In the next room ..."
+}
+
+{
+    "original": "In the preceding weeks …",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, SCALE",
+    "literal": "In the previous rooms of the building ..."
+}
+
+{
+    "original": "…wollte Jakhini die Endzeit …herbeizwingen…",
+    "annotation": "FORCE, SOURCE_PATH_GOAL",
+    "literal": "Jakhini tried to physically pull the end times closer."
+}
+
+{
+    "original": "…die der festen Überzeugung waren, die Erlösung sei nahe…",
+    "annotation": "CONTAINMENT, FORCE, SOURCE_PATH_GOAL, SCALE",
+    "literal": "The rescue team was close to reaching the trapped hikers."
+}
+
+{
+    "original": "Es [das Ende der Geschichte] wird kommen, es ist schon da.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, OBJECT",
+    "literal": "Der Zug wird ankommen, er ist schon am Bahnhof."
+}
+
+{
+    "original": "…den Wahlen entgegengesehen.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE",
+    "literal": "…dem ankommenden Zug entgegengesehen."
+}
+
+{
+    "original": "Am kommenden Montag…",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT",
+    "literal": "Der nächste Montag ist in sieben Tagen."
+}
+
+{
+    "original": "Der Ökozid rückt zwar stündlich näher…",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, OBJECT",
+    "literal": "Das Auto fährt stündlich näher an die Stadt heran."
+}
+
+{
+    "original": "…ist noch immer nicht die Zeit gekommen…",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT",
+    "literal": "Der Zug ist noch nicht am Bahnhof angekommen."
+}
+
+{
+    "original": "…erklärt, was auf mich zukommt…",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "Der Ball rollt auf mich zu."
+}
+
+{
+    "original": "Es wird einmal die Zeit kommen…",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT",
+    "literal": "Der Zug wird am Bahnhof ankommen."
+}
+
+{
+    "original": "…in den kommenden Monaten…",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, SCALE",
+    "literal": "…in den nächsten Räumen…"
+}
+
+{
+    "original": "Nicht zuletzt auf Lehrer und Erzieher kommen neue Aufgaben zu.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "Neue Pakete kommen auf den Tisch zu."
+}
+
+{
+    "original": "We are moving ahead.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "The car is driving forward on the road."
+}
+
+{
+    "original": "Let's forge ahead.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "Let's walk forward on the path."
+}
+
+{
+    "original": "Let's keep moving forward.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE",
+    "literal": "The car keeps driving along the road."
+}
+
+{
+    "original": "We made lots of forward movement.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, SCALE",
+    "literal": "The car drove many miles ahead on the road."
+}
+
+{
+    "original": "We are sliding backward.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, VERTICALITY",
+    "literal": "The box is sliding down the ramp."
+}
+
+{
+    "original": "We are backsliding.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, VERTICALITY",
+    "literal": "We are sliding backwards down a slope."
+}
+
+{
+    "original": "We need to backtrack.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE",
+    "literal": "We need to walk backwards on the trail."
+}
+
+{
+    "original": "It is time to turn around and retrace our steps.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "The hiker turned around and walked back along the same trail."
+}
+
+{
+    "original": "She's ahead of the game.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, OBJECT",
+    "literal": "She's in front of the group."
+}
+
+{
+    "original": "You are falling behind on your studies.",
+    "annotation": "SOURCE_PATH_GOAL, VERTICALITY, SCALE",
+    "literal": "The runner is falling behind the other competitors in the race."
+}
+
+{
+    "original": "Step forward and cast the first stone. Step back and let me handle this.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT, CONTACT",
+    "literal": "Move closer and throw the rock. Move away and allow me to manage the situation."
+}
+
+{
+    "original": "The government intends to go ahead with major tax cuts.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE",
+    "literal": "The car moves forward on the road."
+}
+{
+    "original": "We are learning to step back from ourselves and identify our strengths and weaknesses.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, PART-WHOLE",
+    "literal": "We are moving backwards from a physical object and examining its components."
+}
+
+{
+    "original": "The test was at the forefront of my attention.",
+    "annotation": "CENTER-PERIPHERY, CONTAINMENT, OBJECT",
+    "literal": "The book was at the front of the shelf."
+}
+
+{
+    "original": "That deadline is in the back of my mind.",
+    "annotation": "CONTAINMENT, OBJECT, CENTER-PERIPHERY",
+    "literal": "That book is in the back of the shelf."
+}
+
+{
+    "original": "He puts his work before everything.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, OBJECT",
+    "literal": "He places his book in front of other items on the desk."
+}
+
+{
+    "original": "Should we place the needs of Europe's working classes before the needs of the masses of Africa and Asia?",
+    "annotation": "SCALE, SOURCE_PATH_GOAL, CONTAINMENT, OBJECT",
+    "literal": "Should we put the food for our family on the table before the food for our neighbors?"
+}
+
+{
+    "original": "We consider this agreement to be an important step forward.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, SCALE",
+    "literal": "We walked a step forward on the path."
+}
+
+{
+    "original": "Don't risk your marketing department being left behind.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "Don't let your car fall behind in the race."
+}
+
+{
+    "original": "right-wing party",
+    "annotation": "SCALE, PART-WHOLE, OBJECT",
+    "literal": "The right wing of the bird"
+}
+
+{
+    "original": "left-wing party",
+    "annotation": "SCALE, OBJECT, PART-WHOLE",
+    "literal": "The left wing of the bird"
+}
+
+{
+    "original": "No known spoken language uses the lateral (left–right) axis for time.",
+    "annotation": "SCALE, SOURCE_PATH_GOAL, OBJECT",
+    "literal": "No known physical object uses the lateral (left–right) axis for measurement."
+}
+
+{
+    "original": "the right answer",
+    "annotation": "SCALE, OBJECT, VERTICALITY",
+    "literal": "the correct solution"
+}
+
+{
+    "original": "my right-hand man",
+    "annotation": "PART-WHOLE, SUPPORT, LINK, OBJECT",
+    "literal": "The right hand is part of the body"
+}
+
+{
+    "original": "out in left field",
+    "annotation": "CONTAINMENT, CENTER-PERIPHERY, SOURCE_PATH_GOAL",
+    "literal": "The player is standing in the left field of the baseball diamond."
+}
+
+{
+    "original": "two left feet",
+    "annotation": "PART-WHOLE, OBJECT",
+    "literal": "The person has two feet on the left side of their body."
+}
+
+{
+    "original": "He is in love.",
+    "annotation": "CONTAINMENT, SUBSTANCE, FORCE",
+    "literal": "He is in the swimming pool."
+}
+
+{
+    "original": "What kind of a state was he in when you saw him?",
+    "annotation": "CONTAINMENT, OBJECT",
+    "literal": "What kind of a room was he in when you saw him?"
+}
+
+{
+    "original": "She can stay/remain silent for days.",
+    "annotation": "CONTAINMENT, SCALE, SUBSTANCE",
+    "literal": "The water can remain in the tank for days."
+}
+
+{
+    "original": "She can remain silent for days.",
+    "annotation": "CONTAINMENT, SCALE, SUBSTANCE",
+    "literal": "The water can remain in the tank for days."
+}
+
+{
+    "original": "He is at rest.",
+    "annotation": "CONTAINMENT, FORCE, SCALE",
+    "literal": "The book is on the shelf."
+}
+
+{
+    "original": "She is at play.",
+    "annotation": "CONTAINMENT, SUBSTANCE, OBJECT",
+    "literal": "She is in the playground."
+}
+
+{
+    "original": "He remained standing.",
+    "annotation": "VERTICALITY, SUPPORT",
+    "literal": "The tree remained upright."
+}
+
+{
+    "original": "He is at a certain stage in his studies.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, SCALE",
+    "literal": "He is at a specific point on the timeline of his education."
+}
+
+{
+    "original": "What state is the project in?",
+    "annotation": "CONTAINMENT, OBJECT",
+    "literal": "What room is the person in?"
+}
+
+{
+    "original": "They are in love.",
+    "annotation": "CONTAINMENT, SUBSTANCE, FORCE",
+    "literal": "They are in the swimming pool."
+}
+
+{
+    "original": "I'm close to being in a depression and the next thing that goes wrong will send me over the edge.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, FORCE, SCALE, VERTICALITY",
+    "literal": "I'm standing near the edge of a cliff and the next gust of wind will push me off the ledge."
+}
+
+{
+    "original": "I'm in love.",
+    "annotation": "CONTAINMENT, SUBSTANCE, FORCE",
+    "literal": "I'm in the swimming pool."
+}
+
+{
+    "original": "She's out of her depression.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, FORCE",
+    "literal": "She's out of the room."
+}
+
+{
+    "original": "He's on the edge of madness.",
+    "annotation": "CONTAINMENT, SCALE, SOURCE_PATH_GOAL, SUPPORT",
+    "literal": "He's standing on the edge of the cliff."
+}
+
+{
+    "original": "He's in a deep depression.",
+    "annotation": "CONTAINMENT, VERTICALITY, SCALE",
+    "literal": "He's in a deep hole."
+}
+
+{
+    "original": "She's close to insanity.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, SCALE",
+    "literal": "She's close to the edge of the cliff."
+}
+
+{
+    "original": "We're far from safety.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, CENTER-PERIPHERY",
+    "literal": "The car is far from the garage."
+}
+
+{
+    "original": "Harry's in trouble.",
+    "annotation": "CONTAINMENT, FORCE",
+    "literal": "Harry's in a box."
+}
+
+{
+    "original": "The renovation is at a crossroads.",
+    "annotation": "SOURCE_PATH_GOAL, SPLITTING, OBJECT",
+    "literal": "The road splits into two directions at this point."
+}
+
+{
+    "original": "When at rest, the computer goes into hibernation.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, SUBSTANCE",
+    "literal": "When inactive, the bear enters its den for winter sleep."
+}
+
+{
+    "original": "East Timor took the first steps toward independence in the 1990s.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, OBJECT",
+    "literal": "The hiker took the first steps toward the mountain peak on the trail."
+}
+
+{
+    "original": "The country is slowly moving out of recession.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, OBJECT",
+    "literal": "The car is slowly moving out of the garage."
+}
+
+{
+    "original": "Shape up!",
+    "annotation": "OBJECT, FORCE, VERTICALITY",
+    "literal": "Mold the clay into a specific form."
+}
+
+{
+    "original": "He is a conformist.",
+    "annotation": "CONTAINMENT, FORCE",
+    "literal": "He is inside the mold."
+}
+
+{
+    "original": "She's a reformed criminal.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, FORCE",
+    "literal": "The clay is reshaped into a new form."
+}
+
+{
+    "original": "He is working in many areas.",
+    "annotation": "CONTAINMENT, SUBSTANCE, SPLITTING",
+    "literal": "He is standing in many rooms."
+}
+
+{
+    "original": "He is in a difficult field.",
+    "annotation": "CONTAINMENT, FORCE, SUBSTANCE",
+    "literal": "He is standing in a rocky terrain."
+}
+
+{
+    "original": "There are many subareas in linguistics.",
+    "annotation": "CONTAINMENT, PART-WHOLE",
+    "literal": "There are many rooms in a building."
+}
+
+{
+    "original": "He ranks above me.",
+    "annotation": "VERTICALITY, SCALE",
+    "literal": "The book is placed above the notebook on the shelf."
+}
+
+{
+    "original": "They are lower class.",
+    "annotation": "VERTICALITY, SCALE, CONTAINMENT",
+    "literal": "They are on the bottom shelf."
+}
+
+{
+    "original": "Climbing the ladder in the company.",
+    "annotation": "VERTICALITY, SOURCE_PATH_GOAL, SCALE, CONTAINMENT",
+    "literal": "Climbing the ladder in the building."
+}
+
+{
+    "original": "Be nice to the people you meet on your way up.",
+    "annotation": "SOURCE_PATH_GOAL, VERTICALITY, CONTACT, LINK",
+    "literal": "Be friendly to the people you encounter while climbing a mountain."
+}
+
+{
+    "original": "He's the top of the heap.",
+    "annotation": "VERTICALITY, SCALE, PART-WHOLE",
+    "literal": "The book is on top of the stack."
+}
+
+{
+    "original": "Something good came about.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT",
+    "literal": "The package arrived at the destination."
+}
+
+{
+    "original": "It came into existence.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, OBJECT",
+    "literal": "The baby emerged from the womb."
+}
+
+{
+    "original": "It went out of existence.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, OBJECT",
+    "literal": "The ball went out of the room."
+}
+
+{
+    "original": "The baby is due any day.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, SCALE",
+    "literal": "The package will arrive any day."
+}
+
+{
+    "original": "The baby is a new arrival.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT",
+    "literal": "The package is a new delivery."
+}
+
+{
+    "original": "No answers were forth-coming.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "No people were coming forward."
+}
+
+{
+    "original": "He's no longer with us.",
+    "annotation": "CONTAINMENT, LINK, SOURCE_PATH_GOAL",
+    "literal": "He's no longer in this room."
+}
+
+{
+    "original": "He's gone / departed.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT",
+    "literal": "He has left the room."
+}
+
+{
+    "original": "The created object is brought into existence.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, CONTAINMENT",
+    "literal": "The manufactured product is moved into the warehouse."
+}
+
+{
+    "original": "The created object is brought into being.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, FORCE",
+    "literal": "The manufactured product is moved onto the assembly line."
+}
+
+{
+    "original": "Aspirin can make your headaches go away.",
+    "annotation": "FORCE, SOURCE_PATH_GOAL, SUBSTANCE",
+    "literal": "The wind can make the clouds move away."
+}
+
+{
+    "original": "He's on the edge.",
+    "annotation": "SUPPORT, SCALE, CONTAINMENT",
+    "literal": "The book is on the edge of the table."
+}
+
+{
+    "original": "She came back from the brink.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, SCALE",
+    "literal": "She stepped away from the edge of the cliff."
+}
+
+{
+    "original": "He went over the edge.",
+    "annotation": "SOURCE_PATH_GOAL, VERTICALITY, CONTAINMENT",
+    "literal": "He walked past the cliff's edge."
+}
+
+{
+    "original": "I'm hanging on by my fingertips.",
+    "annotation": "SUPPORT, CONTACT, FORCE, VERTICALITY",
+    "literal": "The climber is hanging on the cliff by their fingertips."
+}
+
+{
+    "original": "I'm on shaky ground.",
+    "annotation": "SUPPORT, VERTICALITY, FORCE",
+    "literal": "The building stands on unstable soil."
+}
+
+{
+    "original": "We've got to explore this problem.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, OBJECT",
+    "literal": "We've got to walk through this maze."
+}
+
+{
+    "original": "We've got to survey the problem.",
+    "annotation": "OBJECT, COVERING, CONTAINMENT",
+    "literal": "We've got to survey the landscape."
+}
+
+{
+    "original": "Let's map out the problem before we do anything else.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, OBJECT",
+    "literal": "Let's draw a diagram of the process before we start the project."
+}
+
+{
+    "original": "I think we're headed in the right direction.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, OBJECT",
+    "literal": "The car is driving on the correct road."
+}
+
+{
+    "original": "How close are we to finding a solution?",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, CONTAINMENT, OBJECT",
+    "literal": "How near are we to the destination?"
+}
+
+{
+    "original": "The solution still lies far ahead.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, SCALE",
+    "literal": "The destination is still far down the road."
+}
+
+{
+    "original": "We aren't getting any nearer to an answer.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE",
+    "literal": "The car isn't getting any closer to the destination."
+}
+
+{
+    "original": "Let's not leave any stone unturned.",
+    "annotation": "CONTACT, FORCE, OBJECT, SOURCE_PATH_GOAL",
+    "literal": "Let's examine every item in the room."
+}
+
+{
+    "original": "I'm leaning toward leaving.",
+    "annotation": "FORCE, SOURCE_PATH_GOAL, VERTICALITY",
+    "literal": "The tree is leaning toward the house."
+}
+
+{
+    "original": "They pushed him into running for president.",
+    "annotation": "FORCE, SOURCE_PATH_GOAL, CONTAINMENT",
+    "literal": "They physically pushed him into the voting booth."
+}
+
+{
+    "original": "They prodded me to run.",
+    "annotation": "FORCE, CONTACT, SOURCE_PATH_GOAL",
+    "literal": "They poked me with a stick to move forward."
+}
+
+{
+    "original": "I was drawn into the bank robbery.",
+    "annotation": "CONTAINMENT, FORCE, SOURCE_PATH_GOAL",
+    "literal": "The magnet drew the nail into the container."
+}
+
+{
+    "original": "They stopped me from leaving.",
+    "annotation": "FORCE, SOURCE_PATH_GOAL, CONTAINMENT",
+    "literal": "The barrier blocked the car from exiting."
+}
+
+{
+    "original": "I've taken steps toward canceling my policy.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, FORCE",
+    "literal": "I've walked steps toward the exit door."
+}
+
+{
+    "original": "She's close to resigning.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, CONTACT",
+    "literal": "She's standing close to the door."
+}
+
+{
+    "original": "She backed away from resigning.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE",
+    "literal": "She stepped backwards from the wall."
+}
+
+{
+    "original": "She came near to resigning.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, CONTACT",
+    "literal": "She walked near to the building."
+}
+
+{
+    "original": "He's inching toward invading another country.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, FORCE, CONTAINMENT",
+    "literal": "The snail is slowly moving towards the leaf."
+}
+
+{
+    "original": "The car is in motion.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "The ball is rolling down the hill."
+}
+
+{
+    "original": "She was forced into an arranged marriage.",
+    "annotation": "FORCE, CONTAINMENT, SOURCE_PATH_GOAL",
+    "literal": "The ball was pushed into the box."
+}
+
+{
+    "original": "Her parents kept pushing her until she succeeded.",
+    "annotation": "FORCE, SOURCE_PATH_GOAL, SCALE",
+    "literal": "The workers kept pushing the heavy cart until it reached its destination."
+}
+
+{
+    "original": "He's holding you back, you need to leave him.",
+    "annotation": "FORCE, SOURCE_PATH_GOAL, LINK, CONTACT",
+    "literal": "The rope is holding the boat back, you need to untie it."
+}
+
+{
+    "original": "I'm going to the top and nothing will stand in my way.",
+    "annotation": "SOURCE_PATH_GOAL, VERTICALITY, FORCE, OBJECT",
+    "literal": "I'm climbing to the summit and no obstacles are blocking my path."
+}
+
+{
+    "original": "All the bridges that used to span this river are now gone.",
+    "annotation": "LINK, SOURCE_PATH_GOAL, COVERING, OBJECT",
+    "literal": "All the ropes that used to stretch across this gap are now removed."
+}
+
+{
+    "original": "A and B are close, but they are by no means identical.",
+    "annotation": "LINK, CONTACT, SCALE, OBJECT",
+    "literal": "The two houses are close, but they are not the same building."
+}
+
+{
+    "original": "The addition brought my house closer to what I had in mind.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, CONTAINMENT",
+    "literal": "The extension moved the building nearer to the planned design."
+}
+
+{
+    "original": "These colors aren't quite the same, but they're close.",
+    "annotation": "SCALE, CONTACT, LINK",
+    "literal": "These buildings aren't quite adjacent, but they're near each other."
+}
+
+{
+    "original": "The difference between A and B is vast.",
+    "annotation": "SCALE, SPLITTING, OBJECT",
+    "literal": "The distance between two points on a map is large."
+}
+
+{
+    "original": "I can't tell them apart.",
+    "annotation": "SPLITTING, OBJECT, SCALE",
+    "literal": "I can't separate these identical objects."
+}
+
+{
+    "original": "There's a long way between Paul Newman and Woody Allen.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, LINK",
+    "literal": "There's a long distance between New York and Los Angeles."
+}
+
+{
+    "original": "…eines wirklichkeitsnahen Politikbegriffs…",
+    "annotation": "CONTACT, CONTAINMENT, SCALE",
+    "literal": "…eines nahe gelegenen Gebäudes…"
+}
+
+{
+    "original": "Das Politische…ist auch nicht weit entfernt von dem, was Dolf Sternberger die wahre…Politik genannt hat…",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, LINK",
+    "literal": "The library is not far from the town hall."
+}
+
+{
+    "original": "…"zu mehr Bürgernähe" in der Asylpolitik…",
+    "annotation": "SOURCE_PATH_GOAL, CONTACT, CENTER-PERIPHERY",
+    "literal": "The politician moved closer to the citizens in the town square."
+}
+
+{
+    "original": "…kommen die Männer dem Weltniveau wieder näher.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, CONTACT",
+    "literal": "Die Wanderer kommen dem Gipfel des Berges näher."
+}
+
+{
+    "original": "…dass die Leistungen nicht so weit von der Spitze weg sind.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, CENTER-PERIPHERY, VERTICALITY",
+    "literal": "Die Läufer sind nicht weit hinter dem führenden Athleten."
+}
+
+{
+    "original": "…die neuen Landsleute von drüben…in der Nähe des westdeutschen Pro-Kopf-Einkommens zu halten.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, CONTAINMENT, FORCE",
+    "literal": "Die Gruppe steht in der Nähe des Gebäudes."
+}
+
+{
+    "original": "…näherten sich die Sozialstrukturen in den europäischen Staaten einander an",
+    "annotation": "SOURCE_PATH_GOAL, CONTACT, FORCE",
+    "literal": "Die Autos näherten sich einander auf der Straße an"
+}
+
+{
+    "original": "…der Annäherung zwischen Ost und West…",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, LINK",
+    "literal": "Die zwei Städte rücken geografisch näher zusammen."
+}
+
+{
+    "original": "Wenn die Löhne sich immer mehr von der Produktivität entfernen…",
+    "annotation": "SOURCE_PATH_GOAL, LINK, SCALE",
+    "literal": "Wenn das Auto sich immer weiter von der Stadt entfernt..."
+}
+
+{
+    "original": "Hier verringert sich der Abstand zum reichen Norden sogar…",
+    "annotation": "SCALE, SOURCE_PATH_GOAL, VERTICALITY",
+    "literal": "Hier verringert sich die Entfernung zwischen zwei Punkten auf einer Karte."
+}
+
+{
+    "original": "Produktivität und Löhne laufen immer weiter auseinander.",
+    "annotation": "SOURCE_PATH_GOAL, SPLITTING, SCALE",
+    "literal": "Die zwei Autos fahren in entgegengesetzte Richtungen."
+}
+
+{
+    "original": "…einige auseinanderdriftende Inflationsraten.",
+    "annotation": "SPLITTING, SOURCE_PATH_GOAL, SCALE",
+    "literal": "…einige auseinandertreibende Eisschollen."
+}
+
+{
+    "original": "…dass die Weltwirtschaft sich grundlegend von dem fortentwickelte, was sie…gewesen war.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT, SCALE",
+    "literal": "The plant grew from a seed to a mature tree."
+}
+
+{
+    "original": "Wir haben uns in vielen Fragen…weit von der Basis entfernt.",
+    "annotation": "SOURCE_PATH_GOAL, VERTICALITY, CENTER-PERIPHERY",
+    "literal": "The hikers have moved far away from the base camp."
+}
+
+{
+    "original": "…eine bildungsferne Schicht…",
+    "annotation": "CENTER-PERIPHERY, SCALE, VERTICALITY",
+    "literal": "…eine weit entfernte Gesteinsschicht…"
+}
+
+{
+    "original": "Die Gemeinschaft ist zu volksfern.",
+    "annotation": "SCALE, CENTER-PERIPHERY, LINK",
+    "literal": "Das Dorf ist weit von der Stadt entfernt."
+}
+
+{
+    "original": "To us, culture and spirituality are very close concepts.",
+    "annotation": "CONTACT, LINK, SCALE, OBJECT",
+    "literal": "The two buildings are very close to each other."
+}
+
+{
+    "original": "These ideas are closely related.",
+    "annotation": "LINK, CONTACT, SCALE",
+    "literal": "These books are closely stacked."
+}
+
+{
+    "original": "France has close ties to former colony Tunisia",
+    "annotation": "LINK, CONTACT, FORCE, PART-WHOLE",
+    "literal": "The rope has tight knots connecting two objects"
+}
+
+{
+    "original": "Was liegt da näher als…",
+    "annotation": "CONTACT, SCALE, SOURCE_PATH_GOAL",
+    "literal": "Was ist da physisch näher als…"
+}
+
+{
+    "original": "Der Schluß lag nahe…",
+    "annotation": "CONTACT, SOURCE_PATH_GOAL, OBJECT",
+    "literal": "Das Buch lag nahe am Tisch."
+}
+
+{
+    "original": "…wird der Umkehrschluß nahegelegt…",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, CONTACT",
+    "literal": "The book is placed near the reader."
+}
+
+{
+    "original": "…legt den Verdacht nahe, dass…",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, CONTACT",
+    "literal": "…places the object near, that…"
+}
+
+{
+    "original": "…aus naheliegenden Gründen…",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, OBJECT",
+    "literal": "…aus dem benachbarten Gebäude…"
+}
+
+{
+    "original": "…nichts lag ihr ferner.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, OBJECT",
+    "literal": "The book lies far from her on the table."
+}
+
+{
+    "original": "Sie legten ihm nahe, die Stadt zu verlassen…",
+    "annotation": "FORCE, SOURCE_PATH_GOAL, CONTAINMENT",
+    "literal": "Sie sagten ihm direkt, er solle aus der Stadt gehen."
+}
+
+{
+    "original": "…jenen Ländern diese Einsicht näher zu bringen…",
+    "annotation": "SOURCE_PATH_GOAL, CONTACT, OBJECT",
+    "literal": "…dieses Buch dem Regal näher zu bringen…"
+}
+
+{
+    "original": "My companion put it to me that an initiative must now be taken.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "My colleague suggested that we should start a new project."
+}
+
+{
+    "original": "Stands to reason nobody'd dare to bomb us, because, we'd do the same to them.",
+    "annotation": "FORCE, SOURCE_PATH_GOAL, CONTACT, VERTICALITY",
+    "literal": "The ball bounces back when it hits the wall."
+}
+
+{
+    "original": "The mind starts revolting against even a distant suggestion that what we call `I' is a myth.",
+    "annotation": "FORCE, CONTAINMENT, SOURCE_PATH_GOAL, OBJECT",
+    "literal": "The person starts arguing against even a quiet comment that their identity is not real."
+}
+
+{
+    "original": "For the Kaszubes and Poles of Danzig Poland was a distant idea only.",
+    "annotation": "CENTER-PERIPHERY, SCALE, OBJECT",
+    "literal": "For the residents of Danzig, the city center was far away geographically."
+}
+
+{
+    "original": "Far be it for me to try and teach you your job, but…",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, CONTAINMENT",
+    "literal": "I am standing far from you and not interfering with your work, but..."
+}
+
+{
+    "original": "I have never killed anyone in my life, never even come close to it.",
+    "annotation": "SOURCE_PATH_GOAL, CONTACT, SCALE",
+    "literal": "I have never physically touched anyone with lethal force, never even approached within a short distance of doing so."
+}
+
+{
+    "original": "We have in fact already come close to the view that mental events are at bottom individual properties.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, VERTICALITY",
+    "literal": "We have physically approached the document that describes mental processes as fundamental characteristics of individuals."
+}
+
+{
+    "original": "He did come close to going on pension once at the age of 75 he sent off a perfunctory letter asking for retirement.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, CONTAINMENT, OBJECT",
+    "literal": "He approached the retirement office and submitted a formal letter requesting to end his employment at age 75."
+}
+
+{
+    "original": "He is out of touch with the political situation.",
+    "annotation": "CONTACT, CONTAINMENT, LINK",
+    "literal": "He is not physically touching the political documents."
+}
+
+{
+    "original": "Why don't you seize the opportunity?",
+    "annotation": "OBJECT, FORCE, CONTAINMENT",
+    "literal": "Why don't you grab the ball?"
+}
+
+{
+    "original": "That's a far-fetched idea.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "That's a distant object."
+}
+
+{
+    "original": "His ideas are far out.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, CENTER-PERIPHERY",
+    "literal": "The boat is far from the shore."
+}
+
+{
+    "original": "I feel close to him.",
+    "annotation": "CONTACT, SCALE, SOURCE_PATH_GOAL",
+    "literal": "I stand physically near to him."
+}
+
+{
+    "original": "He's close to his grandmother.",
+    "annotation": "CONTACT, LINK, SCALE",
+    "literal": "He's standing next to his grandmother."
+}
+
+{
+    "original": "He is very near and dear to her.",
+    "annotation": "CONTACT, LINK, CENTER-PERIPHERY, SCALE",
+    "literal": "He is standing close to her and they are holding hands."
+}
+
+{
+    "original": "She can't get close to him.",
+    "annotation": "SOURCE_PATH_GOAL, CONTACT, FORCE",
+    "literal": "The car can't get close to the wall."
+}
+
+{
+    "original": "He keeps everyone at arms length.",
+    "annotation": "CONTAINMENT, SCALE, SOURCE_PATH_GOAL",
+    "literal": "He stands two meters away from other people."
+}
+
+{
+    "original": "He distances himself.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "He moves away from the group."
+}
+
+{
+    "original": "We've been close for years, but we're beginning to drift apart.",
+    "annotation": "LINK, SOURCE_PATH_GOAL, FORCE, CONTACT",
+    "literal": "The boats have been tied together for hours, but they're starting to float away from each other."
+}
+
+{
+    "original": "He is a standoffish person.",
+    "annotation": "VERTICALITY, FORCE, CONTACT",
+    "literal": "He is standing far from the group."
+}
+
+{
+    "original": "He had close personal contact with the natives.",
+    "annotation": "CONTACT, LINK, SCALE",
+    "literal": "He physically touched the local residents."
+}
+
+{
+    "original": "They lost touch with each other.",
+    "annotation": "CONTACT, LINK, FORCE",
+    "literal": "They stopped physically touching each other."
+}
+
+{
+    "original": "…nahe Freundinnen…",
+    "annotation": "CONTACT, LINK, SCALE",
+    "literal": "…benachbarte Häuser…"
+}
+
+{
+    "original": "…war einer der engsten Freunde von Petra Kelly…",
+    "annotation": "LINK, CENTER-PERIPHERY, SCALE",
+    "literal": "…war einer der nächsten Nachbarn von Petra Kelly…"
+}
+
+{
+    "original": "…selbst enge Vertraute…",
+    "annotation": "LINK, CONTACT, CONTAINMENT",
+    "literal": "…selbst eng anliegende Kleidung…"
+}
+
+{
+    "original": "Die Beziehung zu Petra…sei…"sehr eng" gewesen…",
+    "annotation": "LINK, CONTAINMENT, FORCE, SCALE",
+    "literal": "Das Seil war sehr eng um den Pfosten gewickelt."
+}
+
+{
+    "original": "…die ihn…in den letzten Jahren näher kannten.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, SCALE",
+    "literal": "The people stood closer to him in the room during the last years."
+}
+
+{
+    "original": "Der Toten Nahestehende…",
+    "annotation": "LINK, CONTACT, SCALE",
+    "literal": "Die Familie steht neben dem Sarg."
+}
+
+{
+    "original": "…die übergroße Nähe…",
+    "annotation": "SCALE, CONTACT, CONTAINMENT",
+    "literal": "…der sehr kleine Abstand…"
+}
+
+{
+    "original": "…seinen engeren Mitarbeitern…",
+    "annotation": "CENTER-PERIPHERY, LINK, CONTAINMENT",
+    "literal": "…den Personen, die näher an seinem Arbeitsplatz sitzen…"
+}
+
+{
+    "original": "…stand Eric Clapton musikalisch und menschlich näher…",
+    "annotation": "CONTACT, SCALE, LINK",
+    "literal": "Eric Clapton steht physisch näher an der Bühne."
+}
+
+{
+    "original": "They're very close.",
+    "annotation": "CONTACT, LINK, SCALE",
+    "literal": "The two objects are physically near each other."
+}
+
+{
+    "original": "She's warming up to her new brother-in-law.",
+    "annotation": "SCALE, FORCE, LINK, SOURCE_PATH_GOAL",
+    "literal": "The room is warming up to a comfortable temperature."
+}
+
+{
+    "original": "Er bleibt früheren Systemkonzepten näher…",
+    "annotation": "SOURCE_PATH_GOAL, CONTACT, SCALE",
+    "literal": "Er steht physisch näher zu den alten Maschinen."
+}
+
+{
+    "original": "…der als CDU-nah gilt…",
+    "annotation": "LINK, SCALE, CENTER-PERIPHERY",
+    "literal": "Der Mann steht nah an der CDU-Zentrale."
+}
+
+{
+    "original": "…aber als der SPD nahestehend gilt.",
+    "annotation": "LINK, CONTACT, CENTER-PERIPHERY",
+    "literal": "Der Mann steht nah bei der Frau."
+}
+
+{
+    "original": "…die jedes homosexuelle Verlangen weit von sich weisen…",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "Sie schieben den Stein weit von sich weg."
+}
+
+{
+    "original": "In den \"Philosophischen Aufsätzen\" geht er jetzt auf Distanz auch zu Joachim Ritter.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, LINK",
+    "literal": "Er bewegt sich physisch weiter weg von Joachim Ritter in der Bibliothek."
+}
+
+{
+    "original": "…in solchen Distanzierungen…",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, SCALE",
+    "literal": "…in solchen räumlichen Abständen…"
+}
+
+{
+    "original": "There seems to be growing friendship between Shia Iran and its Sunni-dominated neighbours.",
+    "annotation": "LINK, SCALE, FORCE, SUBSTANCE",
+    "literal": "There is an increasing connection between two neighboring countries."
+}
+
+{
+    "original": "It's this one here that I want.",
+    "annotation": "CENTER-PERIPHERY, OBJECT, SOURCE_PATH_GOAL",
+    "literal": "The item I'm pointing to is the one I wish to purchase."
+}
+
+{
+    "original": "Here is the pound I owe you.",
+    "annotation": "OBJECT, LINK, FORCE, SOURCE_PATH_GOAL",
+    "literal": "Here is the book I borrowed from you."
+}
+
+{
+    "original": "Here you are (when giving something to someone).",
+    "annotation": "SOURCE_PATH_GOAL, CONTACT, OBJECT",
+    "literal": "The package is handed to the recipient."
+}
+
+{
+    "original": "Here's to… (drinking a toast).",
+    "annotation": "VERTICALITY, SUBSTANCE, FORCE, LINK",
+    "literal": "Here's the glass raised up (for drinking)."
+}
+
+{
+    "original": "People who are dear to us should be near us.",
+    "annotation": "SCALE, CENTER-PERIPHERY, LINK, FORCE",
+    "literal": "Objects that are valuable to us should be close to us."
+}
+
+{
+    "original": "They are very close friends.",
+    "annotation": "CONTACT, LINK, SCALE",
+    "literal": "The two chairs are placed very close together."
+}
+
+{
+    "original": "The question of women's rights is a subject close to her heart.",
+    "annotation": "CONTAINMENT, CENTER-PERIPHERY, CONTACT, OBJECT",
+    "literal": "The book is placed close to her chest."
+}
+
+{
+    "original": "I'll be around if you should want me.",
+    "annotation": "CENTER-PERIPHERY, CONTAINMENT, LINK",
+    "literal": "I'll be in the vicinity if you need to locate me."
+}
+
+{
+    "original": "Here's the door and there's the way (used by one of the quarrelling parties in order to make the other one leave the room).",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, CONTAINMENT, FORCE",
+    "literal": "Here's the exit and there's the path leading outside the building."
+}
+
+{
+    "original": "There I disagree with you.",
+    "annotation": "SPLITTING, FORCE, LINK",
+    "literal": "There I stand apart from you."
+}
+
+{
+    "original": "There comes the difficulty.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT",
+    "literal": "The car comes down the road."
+}
+
+{
+    "original": "There's the rub.",
+    "annotation": "CONTACT, FORCE, OBJECT",
+    "literal": "There's the rough spot on the surface."
+}
+
+{
+    "original": "Since she died, he just sits out there all day doing nothing.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, SCALE",
+    "literal": "Since the plant withered, it remains in the same spot without growing."
+}
+
+{
+    "original": "The problem is far from being solved.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE",
+    "literal": "The car is far from the finish line."
+}
+
+{
+    "original": "Far-fetched (= forced, unnatural)",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, CONTACT",
+    "literal": "The object was fetched from a distant location."
+}
+
+{
+    "original": "far-gone (= deeply advanced into e.g. illness, madness, drunkenness, debt, etc.).",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, CONTAINMENT",
+    "literal": "The hiker has gone far along the trail."
+}
+
+{
+    "original": "I always thought of my parents as being rigid, distant, and unloving.",
+    "annotation": "OBJECT, SUBSTANCE, SCALE, VERTICALITY, CENTER-PERIPHERY",
+    "literal": "The metal rod is stiff, far away, and cold to the touch."
+}
+
+{
+    "original": "We are on distant terms.",
+    "annotation": "SCALE, LINK, OBJECT",
+    "literal": "We are standing far apart from each other."
+}
+
+{
+    "original": "A distant connection between two ideas.",
+    "annotation": "LINK, SCALE, OBJECT",
+    "literal": "A long rope connects two physical objects."
+}
+
+{
+    "original": "A distant manner.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE",
+    "literal": "A far-away location."
+}
+
+{
+    "original": "His stories are too remote from everyday life.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, CENTER-PERIPHERY",
+    "literal": "The cabin is too far from the city center."
+}
+
+{
+    "original": "She was a silent girl, cool and remote.",
+    "annotation": "CENTER-PERIPHERY, SCALE, SUBSTANCE",
+    "literal": "The mountain peak was distant and cold."
+}
+
+{
+    "original": "…eines wirklichkeitsnahen Politikbegriffs…",
+    "annotation": "CONTACT, SCALE, OBJECT",
+    "literal": "…eines nahen Gebäudes…"
+}
+
+{
+    "original": "Das Politische…ist auch nicht weit entfernt von dem, was Dolf Sternberger die wahre…Politik genannt hat…",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, LINK",
+    "literal": "The library is not far from the town hall."
+}
+
+{
+    "original": "…"zu mehr Bürgernähe" in der Asylpolitik…",
+    "annotation": "SOURCE_PATH_GOAL, CONTACT, CENTER-PERIPHERY",
+    "literal": "The politician moved closer to the citizens in the town square."
+}
+
+{
+    "original": "…kommen die Männer dem Weltniveau wieder näher.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, CONTACT",
+    "literal": "Die Wanderer kommen dem Gipfel des Berges näher."
+}
+
+{
+    "original": "…dass die Leistungen nicht so weit von der Spitze weg sind.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, CENTER-PERIPHERY, VERTICALITY",
+    "literal": "Die Läufer sind nicht weit hinter dem führenden Athleten."
+}
+
+{
+    "original": "…die neuen Landsleute von drüben…in der Nähe des westdeutschen Pro-Kopf-Einkommens zu halten.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, CONTAINMENT, LINK",
+    "literal": "Die Personen aus dem Osten in einem ähnlichen Einkommensbereich wie die Westdeutschen zu positionieren."
+}
+
+{
+    "original": "…näherten sich die Sozialstrukturen in den europäischen Staaten einander an",
+    "annotation": "SOURCE_PATH_GOAL, CONTACT, FORCE",
+    "literal": "Die Autos näherten sich einander auf der Straße an"
+}
+
+{
+    "original": "…der Annäherung zwischen Ost und West…",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, LINK",
+    "literal": "Die zwei Städte rücken geografisch näher zusammen."
+}
+
+{
+    "original": "Wenn die Löhne sich immer mehr von der Produktivität entfernen…",
+    "annotation": "SOURCE_PATH_GOAL, LINK, SCALE",
+    "literal": "Wenn das Auto sich immer weiter von der Garage entfernt..."
+}
+
+{
+    "original": "Hier verringert sich der Abstand zum reichen Norden sogar…",
+    "annotation": "SCALE, SOURCE_PATH_GOAL, VERTICALITY",
+    "literal": "Hier verkleinert sich die Entfernung zwischen zwei Punkten auf einer Karte."
+}
+
+{
+    "original": "Produktivität und Löhne laufen immer weiter auseinander.",
+    "annotation": "SPLITTING, SOURCE_PATH_GOAL, SCALE",
+    "literal": "Die zwei Autos fahren in entgegengesetzte Richtungen."
+}
+
+{
+    "original": "…einige auseinanderdriftende Inflationsraten.",
+    "annotation": "SPLITTING, SOURCE_PATH_GOAL, FORCE",
+    "literal": "…einige auseinandertreibende Eisschollen."
+}
+
+{
+    "original": "…dass die Weltwirtschaft sich grundlegend von dem fortentwickelte, was sie…gewesen war.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT, SCALE",
+    "literal": "The plant grew from a seed to a mature tree."
+}
+
+{
+    "original": "Wir haben uns in vielen Fragen…weit von der Basis entfernt.",
+    "annotation": "SOURCE_PATH_GOAL, VERTICALITY, CENTER-PERIPHERY",
+    "literal": "The hikers have moved far away from the base camp."
+}
+
+{
+    "original": "…eine bildungsferne Schicht…",
+    "annotation": "CENTER-PERIPHERY, SCALE, VERTICALITY",
+    "literal": "…eine weit entfernte Gesteinsschicht…"
+}
+
+{
+    "original": "Die Gemeinschaft ist zu volksfern.",
+    "annotation": "SCALE, CENTER-PERIPHERY, LINK",
+    "literal": "Das Dorf ist weit von der Stadt entfernt."
+}
+
+{
+    "original": "Er bleibt früheren Systemkonzepten näher…",
+    "annotation": "SOURCE_PATH_GOAL, CONTACT, SCALE",
+    "literal": "Er steht physisch näher zu den alten Maschinen."
+}
+
+{
+    "original": "…der als CDU-nah gilt…",
+    "annotation": "LINK, SCALE, CENTER-PERIPHERY",
+    "literal": "Der Mann steht nah an der CDU-Zentrale."
+}
+
+{
+    "original": "…aber als der SPD nahestehend gilt.",
+    "annotation": "LINK, CONTACT, CENTER-PERIPHERY",
+    "literal": "Der Mann steht nah bei der Frau."
+}
+
+{
+    "original": "…die jedes homosexuelle Verlangen weit von sich weisen…",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "Sie schieben den Stein weit von sich weg."
+}
+
+{
+    "original": "In den \"Philosophischen Aufsätzen\" geht er jetzt auf Distanz auch zu Joachim Ritter.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, LINK",
+    "literal": "Er bewegt sich physisch weiter weg von Joachim Ritter in der Bibliothek."
+}
+
+{
+    "original": "…in solchen Distanzierungen…",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, SCALE",
+    "literal": "…in solchen räumlichen Abständen…"
+}
+
+{
+    "original": "We're finally on the same page.",
+    "annotation": "CONTACT, CONTAINMENT, SUPPORT",
+    "literal": "We're finally standing on the same floor tile."
+}
+
+{
+    "original": "Who's with me?",
+    "annotation": "LINK, SUPPORT, CONTACT",
+    "literal": "Who's standing next to me?"
+}
+
+{
+    "original": "We've been in a close relationship for years, but it's beginning to seem confining.",
+    "annotation": "CONTAINMENT, LINK, FORCE, SCALE",
+    "literal": "We've been in a small room for hours, and it's starting to feel cramped."
+}
+
+{
+    "original": "to have an open marriage",
+    "annotation": "CONTAINMENT, COVERING, LINK",
+    "literal": "to have an open door"
+}
+
+{
+    "original": "She's trapped in a relationship with a scumbag.",
+    "annotation": "CONTAINMENT, FORCE, LINK",
+    "literal": "The mouse is trapped in a cage with a predator."
+}
+
+{
+    "original": "They had a falling out.",
+    "annotation": "SOURCE_PATH_GOAL, VERTICALITY, SPLITTING",
+    "literal": "The apple fell from the tree and split open."
+}
+
+{
+    "original": "Our relationship is veering off-course.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "The car is veering off the road."
+}
+
+{
+    "original": "I feel close to him.",
+    "annotation": "CONTACT, SCALE, SOURCE_PATH_GOAL",
+    "literal": "I stand physically near to him."
+}
+
+{
+    "original": "He distances himself.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "He moves away from the group."
+}
+
+{
+    "original": "…nahe Freundinnen…",
+    "annotation": "CONTACT, LINK, SCALE",
+    "literal": "…benachbarte Häuser…"
+}
+
+{
+    "original": "…war einer der engsten Freunde von Petra Kelly…",
+    "annotation": "LINK, CENTER-PERIPHERY, SCALE",
+    "literal": "…war einer der nächsten Nachbarn von Petra Kelly…"
+}
+
+{
+    "original": "…selbst enge Vertraute…",
+    "annotation": "LINK, CONTACT, CONTAINMENT",
+    "literal": "…selbst eng anliegende Kleidung…"
+}
+
+{
+    "original": "Die Beziehung zu Petra…sei…"sehr eng" gewesen…",
+    "annotation": "LINK, CONTAINMENT, FORCE, SCALE",
+    "literal": "Das Seil war sehr eng um den Pfosten gewickelt."
+}
+
+{
+    "original": "…die ihn…in den letzten Jahren näher kannten.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, SCALE, CONTACT",
+    "literal": "The people stood physically closer to him in recent years."
+}
+
+{
+    "original": "Der Toten Nahestehende…",
+    "annotation": "LINK, CONTACT, SCALE",
+    "literal": "Die Familie steht neben dem Sarg."
+}
+
+{
+    "original": "…die übergroße Nähe…",
+    "annotation": "SCALE, CONTACT, CONTAINMENT",
+    "literal": "…der sehr kleine Abstand…"
+}
+
+{
+    "original": "…seinen engeren Mitarbeitern…",
+    "annotation": "CENTER-PERIPHERY, LINK, CONTAINMENT",
+    "literal": "…den Personen, die näher an seinem Arbeitsplatz sitzen…"
+}
+
+{
+    "original": "…stand Eric Clapton musikalisch und menschlich näher…",
+    "annotation": "CONTACT, SCALE, LINK",
+    "literal": "Eric Clapton steht physisch näher an der Bühne."
+}
+
+{
+    "original": "…ihrer engen Freundin…",
+    "annotation": "LINK, CONTACT, CONTAINMENT",
+    "literal": "…ihrer nahen Nachbarin…"
+}
+
+{
+    "original": "When Tuesday comes. . .",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT",
+    "literal": "When the train arrives at the station."
+}
+
+{
+    "original": "Three O'clock is approaching.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, SCALE",
+    "literal": "The car is approaching the intersection."
+}
+
+{
+    "original": "Thursday passed without incident.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT",
+    "literal": "The car passed by without stopping."
+}
+
+{
+    "original": "The witching hour is near.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, CENTER-PERIPHERY",
+    "literal": "The midnight hour is approaching."
+}
+
+{
+    "original": "Who are the men closest to Khomeini? (Who are the men who have the strongest effect on Khomeini?)",
+    "annotation": "CONTACT, FORCE, SCALE, CENTER-PERIPHERY",
+    "literal": "Who are the people standing nearest to Khomeini?"
+}
+
+{
+    "original": "so you kind of feel a little bit closer to the character within the book.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, SCALE",
+    "literal": "The reader moves physically nearer to a person standing inside a large container."
+}
+
+{
+    "original": "at that point I think I sort of felt like I had taken a step away from the story.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, FORCE, LINK",
+    "literal": "At that moment, I physically moved one step backwards from the book."
+}
+
+{
+  "original": "but it felt like someone you love being pulled away from you ever so slowly, agonizingly slowly, watching someone you love being tortured and then just having her gone, it was quite horrible. I mean what was in my soul, it's probably the best description I can give you, it's like a massive loss.",
+  "annotation": "SOURCE_PATH_GOAL, FORCE, CONTAINMENT, SCALE",
+  "literal": "The rope was slowly pulling the heavy object away from its original position, causing visible strain and damage to the object before it disappeared from view. The empty space left behind was noticeably large."
+}
+
+{
+    "original": "It is close on midnight.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, CONTACT",
+    "literal": "The clock hand is near the twelve o'clock position."
+}
+
+{
+    "original": "To answer that question we need to go further back in time.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, FORCE",
+    "literal": "To reach that location we need to walk further back on the path."
+}
+
+{
+    "original": "He was close to tears.",
+    "annotation": "CONTACT, SOURCE_PATH_GOAL, SCALE",
+    "literal": "He was standing close to the wall."
+}
+
+{
+    "original": "He became emotionally distant from his friends and family after the illness.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, LINK, CENTER-PERIPHERY",
+    "literal": "He moved physically far away from his friends and family after relocating."
+}
+
+{
+    "original": "He is one of the prime minister's closest advisers.",
+    "annotation": "PART-WHOLE, CENTER-PERIPHERY, LINK, SCALE",
+    "literal": "He stands physically nearest to the prime minister in the room."
+}
+
+{
+    "original": "People need be entertained to take their attention away from conflict.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, CONTAINMENT",
+    "literal": "People need to move physically away from a noisy area to focus better."
+}
+
+{
+    "original": "I can feel a headache approaching.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "I can see a car approaching on the road."
+}
+
+{
+    "original": "My symptoms went away.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "The birds flew away from the tree."
+}
+
+{
+    "original": "House Democrats and Republicans moved closer to agreeing on a budget today.",
+    "annotation": "SOURCE_PATH_GOAL, CONTACT, LINK, FORCE",
+    "literal": "The two groups of people walked towards each other in the room."
+}
+
+{
+    "original": "It is unclear how the new law applies to this situation.",
+    "annotation": "CONTACT, FORCE, CONTAINMENT",
+    "literal": "The paint is unclear how it covers this surface."
+}
+
+{
+    "original": "Canada is by far the closest of all our neighbors.",
+    "annotation": "SCALE, OBJECT, LINK, SOURCE_PATH_GOAL",
+    "literal": "The house next door is the closest building to ours."
+}
+
+{
+    "original": "Let's hope he can keep the team on the road to success.",
+    "annotation": "SOURCE_PATH_GOAL, SUPPORT, FORCE, CONTAINMENT",
+    "literal": "Let's hope he can keep the car on the road to the destination."
+}
+
+{
+    "original": "She went from fat to thin through an intensive exercise program.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, FORCE",
+    "literal": "She moved from one end of the room to the other through a narrow corridor."
+}
+
+{
+    "original": "Do it this way.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "Walk along this path."
+}
+
+{
+    "original": "She did it the other way.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT",
+    "literal": "She walked in the opposite direction."
+}
+
+{
+    "original": "Do it any way you can.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE",
+    "literal": "Walk to the destination using any available path."
+}
+
+{
+    "original": "However you want to go about it is fine with me.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, SCALE",
+    "literal": "Whichever route you choose to reach the destination is acceptable to me."
+}
+
+{
+    "original": "If this doesn't work, I'll try a different route.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT",
+    "literal": "If this road is blocked, I'll take a different street."
+}
+
+{
+    "original": "…sei nichts anderes als ein Schleichweg an die Macht…",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "The hidden path leads to the castle."
+}
+
+{
+    "original": "…es gibt tatsächlich Anzeichen für einen asiatischen Sonderweg.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT",
+    "literal": "Es gibt tatsächlich Wegweiser für einen alternativen Pfad durch Asien."
+}
+
+{
+    "original": "Das Gemauschel in der Grauzone sei einfach der falsche Weg.",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, OBJECT",
+    "literal": "Die Diskussion in dem unklaren Bereich führt in die falsche Richtung."
+}
+
+{
+    "original": "Jetzt hat die moderne Traumforschung einen Weg gefunden…",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT",
+    "literal": "Jetzt hat der Wanderer einen Pfad im Wald gefunden."
+}
+
+{
+    "original": "Ernst Tugendhats Denkweg führt durch die Denkgeschichte der Bundesrepublik.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, FORCE",
+    "literal": "Ernst Tugendhat's car drives through the streets of the Federal Republic."
+}
+
+{
+    "original": "Es gab in unserem Jahrhundert viele Wege, die von Heidegger weggeführt haben.",
+    "annotation": "SOURCE_PATH_GOAL, SPLITTING, LINK",
+    "literal": "Es gab in der Stadt viele Straßen, die vom Stadtzentrum wegführten."
+}
+
+{
+    "original": "…kann…ein „mittlerer Weg" das Problem relativieren…",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, CENTER-PERIPHERY",
+    "literal": "A middle path can lead between two extreme points."
+}
+
+{
+    "original": "Auf diesem Weg…",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT",
+    "literal": "Auf diesem Pfad gehen wir."
+}
+
+{
+    "original": "…dass es nur einen Weg gebe, die Lage…zu verbessern.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE",
+    "literal": "Es gibt nur eine Straße, die zum Gipfel des Berges führt."
+}
+
+{
+    "original": "…nach den dramatischen Irrwegen…",
+    "annotation": "SOURCE_PATH_GOAL, FORCE",
+    "literal": "…nach den schwierigen Umwegen…"
+}
+
+{
+    "original": "…schufen sich die EG-Regierungen auf dem Umweg über Brüssel Dutzende weiterer Zusatzbudgets.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, OBJECT",
+    "literal": "Die Regierungen erstellten zusätzliche Budgets durch Verhandlungen in Brüssel."
+}
+
+{
+    "original": "…die fallenreichen Pfade alternativer Politik…",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, CONTAINMENT",
+    "literal": "…die steinigen Wege durch den Wald…"
+}
+
+{
+    "original": "Ein Weg aus der Hoffnungslosigkeit sei auch die Initiative…",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, FORCE",
+    "literal": "Ein Weg aus dem Wald führt zum Dorf."
+}
+
+{
+    "original": "Nach dem Führungswechsel…scheint der Deutsche Judo-Bund…auf einem guten Weg…",
+    "annotation": "SOURCE_PATH_GOAL, SUPPORT, VERTICALITY",
+    "literal": "Nach dem Umzug ist die Familie auf der neuen Straße."
+}
+
+{
+    "original": "Welchen Weg hätte die Brandenburgische CDU genommen…",
+    "annotation": "SOURCE_PATH_GOAL",
+    "literal": "Welche Straße hätte das Auto genommen..."
+}
+
+{
+    "original": "Das ist der falsche Weg…",
+    "annotation": "SOURCE_PATH_GOAL, SCALE",
+    "literal": "Das ist die falsche Straße."
+}
+
+{
+    "original": "To be cool, you have to wear your overalls this way.",
+    "annotation": "COVERING, SCALE, CONTAINMENT",
+    "literal": "To be comfortable, you have to wear your jacket zipped up."
+}
+
+{
+    "original": "She solved the problem a different way.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT",
+    "literal": "She walked to the destination using a different route."
+}
+
+{
+    "original": "Do it any way you can.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE",
+    "literal": "Walk to the destination using any available route."
+}
+
+{
+    "original": "However you want to go about repairing it is fine with me.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "However you want to physically move around the broken object while fixing it is acceptable to me."
+}
+
+{
+    "original": "He went from fat to thin through an intensive exercise program.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, SUBSTANCE",
+    "literal": "He moved from one end of the room to the other through a narrow corridor."
+}
+
+{
+    "original": "He eased into bathing daily through the help of his friends.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, FORCE, SUPPORT",
+    "literal": "He slowly entered the bathtub with assistance from others."
+}
+
+{
+    "original": "Die SPD verfolgt eine Linie in Richtung große Koalition.",
+    "annotation": "SOURCE_PATH_GOAL, LINK, OBJECT",
+    "literal": "Der Wanderer folgt einem Pfad in Richtung des Berggipfels."
+}
+
+{
+    "original": "Ein politischer Rückschlag…führt unweigerlich zu ökonomischen Verwerfungen…",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, LINK, SCALE",
+    "literal": "Ein fallender Stein führt unweigerlich zu Rissen im Boden."
+}
+
+{
+    "original": "Mit einer kleinen Währungsunion auf Maastrich zugehen…",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, SCALE",
+    "literal": "Mit einer Gruppe von Menschen auf eine Stadt zugehen."
+}
+
+{
+    "original": "Auch wenn die Politiker in Rio zu kurz springen, sie stolpern doch endlich in die richtige Richtung.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, VERTICALITY, SCALE",
+    "literal": "Die Athleten springen zu kurz und stolpern auf dem Weg zum Ziel."
+}
+
+{
+    "original": "…sie [die Demokratie] braucht vor allem moralische Wegweiser.",
+    "annotation": "SOURCE_PATH_GOAL, SUPPORT, OBJECT",
+    "literal": "Der Wanderer braucht vor allem physische Wegweiser."
+}
+
+{
+    "original": "…dass wir alle unzufrieden waren über die Richtung, die Demokraten wie Republikaner eingeschlagen hatten.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, LINK",
+    "literal": "Die Wanderer waren unzufrieden über den Weg, den sie eingeschlagen hatten."
+}
+
+{
+    "original": "…und der Richtung der Reformen…",
+    "annotation": "SOURCE_PATH_GOAL, FORCE",
+    "literal": "…und der Richtung des Flusses…"
+}
+
+{
+    "original": "Der Weg fürht weg von der Heidegger-Begeisterung…",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "Der Pfad führt weg vom Startpunkt."
+}
+
+{
+    "original": "…ist eine attraktive Forschungsrichtung.",
+    "annotation": "FORCE, SOURCE_PATH_GOAL, OBJECT",
+    "literal": "Der Magnet zieht das Metall an."
+}
+
+{
+    "original": "Ohne Kehrtwende…bleibe die Bundesrepublik…"außen vor"…",
+    "annotation": "CENTER-PERIPHERY, CONTAINMENT, SOURCE_PATH_GOAL",
+    "literal": "Without a change in direction, the car remains outside the parking lot."
+}
+
+{
+    "original": "…auch eine Neuorientierung in der Frage politischer Grundsätze…",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, OBJECT",
+    "literal": "…auch eine Neuausrichtung der politischen Leitlinien…"
+}
+
+{
+    "original": "…ein Zeichen zur ökologischen Wende",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, LINK",
+    "literal": "Ein Wegweiser zeigt die Richtung zum Naturschutzgebiet"
+}
+
+{
+    "original": "Wir haben unser Land schon wiederholt auf einen neuen Kurs gebracht.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, FORCE",
+    "literal": "Wir haben das Schiff schon wiederholt auf einen neuen Kurs gebracht."
+}
+
+{
+    "original": "…eine gewisse Umorientierung in der SPD…",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT",
+    "literal": "…eine gewisse Umstellung der Möbel im Raum…"
+}
+
+{
+    "original": "…forderte sie die Umkehr, eine Welt ohne Waffen…",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, OBJECT",
+    "literal": "Sie forderte eine Richtungsänderung, ein Land ohne Militärausrüstung."
+}
+
+{
+    "original": "…um Jelzin den Kurswechsel nicht unnötig schwer zu machen…",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, SCALE",
+    "literal": "…um das Auto nicht unnötig langsam zu fahren…"
+}
+
+{
+    "original": "…daß er…einen Parteitag herumreißen könnte.",
+    "annotation": "FORCE, SOURCE_PATH_GOAL, OBJECT",
+    "literal": "He could physically turn around a large object."
+}
+
+{
+    "original": "He finally reached his goals.",
+    "annotation": "SOURCE_PATH_GOAL, CONTACT, OBJECT",
+    "literal": "He finally touched the finish line."
+}
+
+{
+    "original": "He's headed for great things.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE",
+    "literal": "He's walking towards the tall buildings."
+}
+
+{
+    "original": "It took him hours to reach a state of perfect concentration.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, CONTAINMENT",
+    "literal": "It took him hours to walk to the top of the mountain."
+}
+
+{
+    "original": "He'll ultimately be successful, but he isn't there yet.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE",
+    "literal": "He'll reach the finish line, but he's still on the track."
+}
+
+{
+    "original": "We've reached the end.",
+    "annotation": "SOURCE_PATH_GOAL, CONTACT, OBJECT",
+    "literal": "The car has reached the destination."
+}
+
+{
+    "original": "We are seeing the light at the end of the tunnel.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, OBJECT, VERTICALITY",
+    "literal": "We are seeing the exit at the end of the underground passage."
+}
+
+{
+    "original": "We only have a short way to go.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE",
+    "literal": "The road ahead is short."
+}
+
+{
+    "original": "We're where we wanted to go.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT",
+    "literal": "We've arrived at our intended destination."
+}
+
+{
+    "original": "The goal is a long way off.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, OBJECT",
+    "literal": "The destination is far from our current location."
+}
+
+{
+    "original": "The necessary retrofitting is now at an end.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, OBJECT",
+    "literal": "The construction work on the building is now complete."
+}
+
+{
+    "original": "He is just floating around.",
+    "annotation": "SOURCE_PATH_GOAL, SUBSTANCE, FORCE",
+    "literal": "The leaf is floating on the water surface."
+}
+
+{
+    "original": "She is drifting aimlessly.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE",
+    "literal": "The boat is drifting on the water."
+}
+
+{
+    "original": "He needs some direction.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE",
+    "literal": "He needs a map to navigate the city."
+}
+
+{
+    "original": "…ein so anderes Ergebnis vorausgesagt hatten…",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT",
+    "literal": "Sie hatten ein anderes Resultat berechnet."
+}
+
+{
+    "original": "…in Rückerinnerung an…",
+    "annotation": "CONTAINMENT, SOURCE_PATH_GOAL, FORCE",
+    "literal": "…in the box of memories…"
+}
+
+{
+    "original": "…im Rückblick auf die zehn Jahre…",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, OBJECT",
+    "literal": "…beim Blick zurück auf die zehn Meter…"
+}
+
+{
+    "original": "Während der zurückliegenden vier Jahrzehnte",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, SCALE",
+    "literal": "Während der vier Meter langen Strecke"
+}
+
+{
+    "original": "…seine Gabe vorauszudenken…",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "…seine Fähigkeit, in die Zukunft zu blicken…"
+}
+
+{
+    "original": "Andere sahen das Grünen-Paar kurz vor dem finanziellen Offenbarungseid…",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, CONTAINMENT",
+    "literal": "Das Auto stand kurz vor der Tankstelle."
+}
+
+{
+    "original": "…dass man es für ein Individuum voraussagen könnte.",
+    "annotation": "SOURCE_PATH_GOAL, CONTAINMENT, OBJECT",
+    "literal": "…dass man den Weg eines Balls voraussagen könnte."
+}
+
+{
+    "original": "Seine besseren Jahre liegen bis zur Unkenntlichkeit weit zurück.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, OBJECT",
+    "literal": "Die alten Fotos liegen weit hinten im Schrank."
+}
+
+{
+    "original": "Leave the past behind you.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, CONTAINMENT",
+    "literal": "Leave the book behind you on the table."
+}
+
+{
+    "original": "As we travel down life's path. . .",
+    "annotation": "SOURCE_PATH_GOAL, VERTICALITY, SUBSTANCE",
+    "literal": "As we walk down the hiking trail..."
+}
+
+{
+    "original": "I don't know where I'm headed, but I'm enjoying getting there.",
+    "annotation": "SOURCE_PATH_GOAL, OBJECT, FORCE",
+    "literal": "I don't know my destination, but I'm enjoying the journey."
+}
+
+{
+    "original": "He just sails through life.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, SUBSTANCE",
+    "literal": "The boat sails through the water."
+}
+
+{
+    "original": "He had a head start in life.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, CONTAINMENT",
+    "literal": "He started the race ahead of the other runners."
+}
+
+Error processing sentence: …einen eindrucksvolleren Lebenslauf…
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+Error processing sentence: Ein Sonderweg hat sich vollendet.
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+Error processing sentence: …ein so unerhörter Lebensweg, der bis an die Regierungsspitze führte…
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+{
+    "original": "…endete sein Lebensweg.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "Der Wanderweg endete am Berggipfel."
+}
+
+Error processing sentence: Weggefährten eines Reiters, der…
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+Error processing sentence: Dieser verschlungene und für ihn doch gerade Weg führte über Höhen und Tiefen. [zum Leben Willy Brands]
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+Error processing sentence: „Ich denke nicht viel rückwärts“, sagt er. “Ich denke eher: wie viel habe ich noch vor mir.
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+{
+    "original": "…dass man denen, die…später leben werden, den Weg bahnen muß.",
+    "annotation": "SOURCE_PATH_GOAL, FORCE, OBJECT",
+    "literal": "The construction workers are clearing the path through the forest."
+}
+
+Error processing sentence: She hasn't gone as far in life as her parents had hoped.
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+Error processing sentence: His life has taken a good course.
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+Error processing sentence: I go where my path leads me.
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+Error processing sentence: As I've traveled through life, I've made a lot of friends along the way.
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+{
+    "original": "He has changed his direction in life, and taken a more spiritual path.",
+    "annotation": "SOURCE_PATH_GOAL, SCALE, VERTICALITY",
+    "literal": "He has changed his walking direction, and taken a different hiking path."
+}
+
+Error processing sentence: It's time to take the next big step in my life.
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+Error processing sentence: He made it this far in life without a partner, he can survive without one going forward.
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+Error processing sentence: He's over the hill.
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+Error processing sentence: She's past her peak.
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+{
+    "original": "Life is full of peaks and valleys.",
+    "annotation": "CONTAINMENT, VERTICALITY, SCALE, SUBSTANCE",
+    "literal": "The landscape is full of mountains and lowlands."
+}
+
+Error processing sentence: He started going down a bad life path.
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+Error processing sentence: They are at a crossroads in their relationship.
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+Error processing sentence: Look how far we’ve come.
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+{
+    "original": "We'll just have to go our separate ways.",
+    "annotation": "SOURCE_PATH_GOAL, SPLITTING, LINK",
+    "literal": "The road splits into two different paths."
+}
+
+Error processing sentence: We can’t turn back now.
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+Error processing sentence: I don’t think this relationship is going anywhere.
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+Error processing sentence: Where are we?
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+{
+    "original": "We're stuck.",
+    "annotation": "CONTAINMENT, FORCE, OBJECT",
+    "literal": "The car is stuck in the mud."
+}
+
+Error processing sentence: It’s been a long, bumpy road.
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+Error processing sentence: This relationship is a dead-end street.
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+Error processing sentence: We’re just spinning our wheels.
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+{
+    "original": "Our marriage is on the rocks.",
+    "annotation": "SUPPORT, FORCE, OBJECT",
+    "literal": "The boat is on the rocks."
+}
+
+Error processing sentence: We’ve gotten off the track.
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+Error processing sentence: This relationship is foundering.
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+Error processing sentence: We’re heading in different directions.
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+{
+    "original": "The marriage is out of gas.",
+    "annotation": "CONTAINMENT, SUBSTANCE, FORCE",
+    "literal": "The car is out of fuel."
+}
+
+Error processing sentence: We’re trying to keep the relationship afloat.
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+Error processing sentence: We may have to bail out of this relationship.
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
+Error processing sentence: The new stadium is bogged down.
+Error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'Number of request tokens has exceeded your daily rate limit (https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.'}}
+
